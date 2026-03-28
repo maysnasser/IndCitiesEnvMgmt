@@ -1,0 +1,3838 @@
+﻿unit_id,building_id,status,usage_code,usage_label
+32,1057,complete,1,سكني
+33,1047,complete,1,سكني
+34,1147,complete,1,سكني
+37,1048,complete,1,سكني
+38,1048,complete,1,سكني
+39,1048,not-used,1,سكني
+40,1048,complete,1,سكني
+41,1048,complete,1,سكني
+42,1765,complete,1,سكني
+43,1765,not-used,0,غير محدد
+44,1765,not-used,1,سكني
+45,1765,complete,1,سكني
+46,1061,complete,1,سكني
+47,1061,complete,1,سكني
+48,1061,complete,1,سكني
+52,556,complete,1,سكني
+53,556,complete,1,سكني
+54,556,complete,1,سكني
+55,556,not-used,1,سكني
+59,478,complete,1,سكني
+60,478,complete,1,سكني
+61,1432,not-used,3,تجاري
+62,549,complete,1,سكني
+63,549,complete,1,سكني
+64,549,complete,1,سكني
+65,1213,complete,1,سكني
+66,1213,not-used,1,سكني
+67,1213,not-used,1,سكني
+68,1213,not-used,1,سكني
+69,1213,not-used,1,سكني
+70,463,complete,1,سكني
+71,555,complete,1,سكني
+72,555,not-used,6,استخدامات اخرى
+73,555,complete,1,سكني
+74,1454,complete,NULL,غير محدد
+75,1454,complete,1,سكني
+76,487,not-used,6,استخدامات اخرى
+77,487,not-used,6,استخدامات اخرى
+78,487,complete,1,سكني
+79,523,complete,1,سكني
+80,498,not-used,6,استخدامات اخرى
+81,498,not-used,1,سكني
+82,498,complete,1,سكني
+83,498,complete,1,سكني
+84,498,complete,1,سكني
+86,521,complete,1,سكني
+87,464,complete,1,سكني
+88,464,complete,1,سكني
+89,464,complete,1,سكني
+90,496,complete,1,سكني
+92,529,complete,1,سكني
+93,529,complete,1,سكني
+94,529,not-used,6,استخدامات اخرى
+95,491,not-used,6,استخدامات اخرى
+96,491,complete,1,سكني
+97,491,complete,1,سكني
+98,491,complete,1,سكني
+99,1213,complete,1,سكني
+100,1213,complete,1,سكني
+101,1213,complete,1,سكني
+102,1213,not-used,6,استخدامات اخرى
+103,474,not-used,6,استخدامات اخرى
+104,474,not-used,1,سكني
+105,474,complete,1,سكني
+106,534,complete,1,سكني
+107,534,complete,1,سكني
+108,534,complete,1,سكني
+109,534,not-used,NULL,غير محدد
+110,547,not-used,1,سكني
+111,460,not-used,1,سكني
+112,460,not-used,1,سكني
+113,503,not-used,NULL,غير محدد
+114,503,not-used,NULL,غير محدد
+115,503,not-used,NULL,غير محدد
+116,478,complete,1,سكني
+117,478,complete,1,سكني
+118,461,not-used,NULL,غير محدد
+119,461,complete,1,سكني
+120,461,complete,1,سكني
+121,524,complete,1,سكني
+122,524,not-used,1,سكني
+123,524,complete,1,سكني
+124,1409,complete,1,سكني
+125,1408,not-used,NULL,غير محدد
+126,1408,complete,1,سكني
+127,1845,complete,1,سكني
+128,1407,complete,3,تجاري
+129,1407,not-used,NULL,غير محدد
+131,1407,not-used,NULL,غير محدد
+132,544,not-used,NULL,غير محدد
+133,468,not-used,NULL,غير محدد
+134,468,complete,1,سكني
+135,472,complete,1,سكني
+136,472,not-used,1,سكني
+137,472,complete,1,سكني
+138,472,complete,1,سكني
+139,496,complete,1,سكني
+140,496,complete,1,سكني
+141,496,not-used,NULL,غير محدد
+142,512,not-used,NULL,غير محدد
+143,476,not-used,NULL,غير محدد
+144,507,not-used,NULL,غير محدد
+146,467,complete,1,سكني
+147,467,not-used,NULL,غير محدد
+148,465,complete,1,سكني
+149,465,not-used,NULL,غير محدد
+150,465,complete,10,صحي
+151,1436,complete,6,استخدامات اخرى
+152,515,complete,8,ديني
+153,515,complete,8,ديني
+154,1455,not-used,NULL,غير محدد
+155,1456,not-used,NULL,غير محدد
+156,530,complete,1,سكني
+157,530,not-used,1,سكني
+158,530,complete,1,سكني
+159,509,not-used,NULL,غير محدد
+160,509,not-used,NULL,غير محدد
+161,1459,not-used,NULL,غير محدد
+162,1459,not-used,NULL,غير محدد
+163,1459,not-used,NULL,غير محدد
+164,465,complete,6,استخدامات اخرى
+165,525,complete,3,تجاري
+166,552,complete,1,سكني
+167,552,complete,1,سكني
+168,552,complete,1,سكني
+169,552,not-used,NULL,غير محدد
+170,502,complete,1,سكني
+171,502,complete,1,سكني
+172,1846,complete,6,استخدامات اخرى
+173,542,not-used,NULL,غير محدد
+174,542,not-used,NULL,غير محدد
+175,542,not-used,NULL,غير محدد
+176,542,not-used,NULL,غير محدد
+177,452,not-used,NULL,غير محدد
+178,452,not-used,NULL,غير محدد
+179,1437,not-used,NULL,غير محدد
+180,494,not-used,NULL,غير محدد
+181,1908,not-used,NULL,غير محدد
+182,1908,not-used,NULL,غير محدد
+183,1908,not-used,NULL,غير محدد
+184,1904,not-used,NULL,غير محدد
+185,1904,complete,1,سكني
+186,489,complete,NULL,غير محدد
+187,469,complete,1,سكني
+188,1909,complete,1,سكني
+189,1909,complete,1,سكني
+190,1909,complete,1,سكني
+191,1906,complete,1,سكني
+192,1906,complete,1,سكني
+193,1906,complete,1,سكني
+194,1910,complete,1,سكني
+195,1910,complete,1,سكني
+196,1910,not-used,NULL,غير محدد
+197,522,complete,1,سكني
+198,522,complete,1,سكني
+199,522,complete,1,سكني
+200,1460,not-used,NULL,غير محدد
+201,1460,not-used,NULL,غير محدد
+202,513,complete,1,سكني
+203,513,not-used,1,سكني
+204,513,complete,1,سكني
+205,513,complete,1,سكني
+206,513,not-used,NULL,غير محدد
+207,1458,not-used,NULL,غير محدد
+208,543,complete,1,سكني
+209,543,complete,1,سكني
+210,1911,complete,1,سكني
+211,1911,complete,1,سكني
+212,1911,not-used,NULL,غير محدد
+213,516,complete,1,سكني
+214,516,not-used,NULL,غير محدد
+215,1458,complete,1,سكني
+216,1458,not-used,NULL,غير محدد
+217,1458,complete,1,سكني
+218,505,complete,1,سكني
+219,505,complete,1,سكني
+220,505,complete,1,سكني
+221,479,complete,1,سكني
+222,479,not-used,NULL,غير محدد
+223,479,complete,1,سكني
+224,479,complete,1,سكني
+226,456,not-used,NULL,غير محدد
+227,456,complete,1,سكني
+228,456,complete,1,سكني
+229,456,complete,1,سكني
+230,1842,not-used,NULL,غير محدد
+231,1842,not-used,NULL,غير محدد
+232,1842,not-used,NULL,غير محدد
+233,1842,not-used,NULL,غير محدد
+234,536,complete,1,سكني
+235,536,complete,1,سكني
+236,536,not-used,NULL,غير محدد
+237,456,complete,NULL,غير محدد
+240,1117,complete,1,سكني
+241,1117,not-used,NULL,غير محدد
+242,518,not-used,NULL,غير محدد
+243,518,complete,1,سكني
+244,518,complete,1,سكني
+245,518,not-used,NULL,غير محدد
+246,453,complete,1,سكني
+247,453,complete,1,سكني
+248,453,complete,1,سكني
+249,1841,complete,6,استخدامات اخرى
+250,550,complete,1,سكني
+251,550,complete,1,سكني
+252,550,complete,1,سكني
+253,550,complete,1,سكني
+254,550,not-used,NULL,غير محدد
+255,550,complete,1,سكني
+256,550,complete,1,سكني
+257,1912,not-used,NULL,غير محدد
+258,1912,not-used,NULL,غير محدد
+259,457,complete,1,سكني
+260,520,complete,1,سكني
+262,1886,complete,3,تجاري
+263,1118,complete,1,سكني
+264,1118,not-used,NULL,غير محدد
+265,1118,not-used,NULL,غير محدد
+266,1262,not-used,NULL,غير محدد
+267,1262,complete,1,سكني
+268,1262,complete,1,سكني
+269,1794,not-used,NULL,غير محدد
+270,1900,complete,3,تجاري
+271,1900,complete,3,تجاري
+272,1145,complete,1,سكني
+274,1058,complete,1,سكني
+275,1058,complete,1,سكني
+276,1893,complete,1,سكني
+277,1893,complete,1,سكني
+278,1893,complete,1,سكني
+279,1406,not-used,NULL,غير محدد
+280,506,complete,1,سكني
+281,506,complete,1,سكني
+282,517,complete,1,سكني
+283,517,complete,1,سكني
+284,517,complete,1,سكني
+285,471,complete,1,سكني
+286,471,complete,1,سكني
+287,471,complete,1,سكني
+288,451,complete,NULL,غير محدد
+289,451,complete,3,تجاري
+290,451,complete,3,تجاري
+291,451,complete,3,تجاري
+292,451,complete,3,تجاري
+293,493,complete,1,سكني
+294,493,complete,1,سكني
+295,493,complete,1,سكني
+296,493,complete,1,سكني
+297,493,complete,1,سكني
+298,493,complete,1,سكني
+299,493,not-used,NULL,غير محدد
+300,459,complete,1,سكني
+301,459,complete,1,سكني
+302,454,not-used,NULL,غير محدد
+303,454,not-used,NULL,غير محدد
+304,1421,complete,3,تجاري
+305,528,complete,1,سكني
+306,557,complete,1,سكني
+310,1915,complete,3,تجاري
+311,1181,complete,3,تجاري
+312,1181,complete,3,تجاري
+313,1181,complete,3,تجاري
+314,1181,complete,3,تجاري
+315,1181,complete,NULL,غير محدد
+316,1181,not-used,NULL,غير محدد
+317,1181,not-used,NULL,غير محدد
+318,1056,complete,3,تجاري
+319,1056,complete,3,تجاري
+320,1916,complete,1,سكني
+321,1916,complete,1,سكني
+322,1916,not-used,NULL,غير محدد
+323,1249,complete,3,تجاري
+324,457,complete,1,سكني
+325,457,complete,4,صناعي
+326,1255,complete,NULL,غير محدد
+327,1425,complete,3,تجاري
+328,1917,complete,3,تجاري
+329,1907,not-used,NULL,غير محدد
+330,1907,complete,1,سكني
+331,1907,complete,1,سكني
+332,1907,complete,1,سكني
+333,1907,complete,1,سكني
+334,1480,complete,3,تجاري
+335,1413,complete,1,سكني
+336,1413,complete,1,سكني
+337,1265,complete,1,سكني
+338,1265,not-used,NULL,غير محدد
+339,1120,complete,1,سكني
+340,1449,not-used,NULL,غير محدد
+341,1450,complete,4,صناعي
+342,1254,complete,3,تجاري
+343,1183,complete,3,تجاري
+347,1918,complete,3,تجاري
+348,1120,not-used,NULL,غير محدد
+349,1416,complete,3,تجاري
+353,1265,complete,1,سكني
+354,1891,complete,6,استخدامات اخرى
+355,1448,complete,6,استخدامات اخرى
+356,1447,complete,6,استخدامات اخرى
+357,1415,complete,4,صناعي
+358,1415,complete,3,تجاري
+359,1415,not-used,NULL,غير محدد
+360,1415,not-used,NULL,غير محدد
+361,1415,not-used,NULL,غير محدد
+362,1412,complete,1,سكني
+363,1412,complete,1,سكني
+364,1412,complete,1,سكني
+365,501,complete,4,صناعي
+366,1843,not-used,3,تجاري
+367,1414,not-used,NULL,غير محدد
+368,1471,complete,1,سكني
+369,1470,complete,1,سكني
+370,1036,not-used,NULL,غير محدد
+371,1854,not-used,NULL,غير محدد
+372,1855,not-used,NULL,غير محدد
+373,1259,not-used,NULL,غير محدد
+374,1259,complete,1,سكني
+375,1259,complete,1,سكني
+376,1766,complete,NULL,غير محدد
+378,1766,complete,1,سكني
+379,1766,complete,NULL,غير محدد
+380,1472,complete,3,تجاري
+381,1472,complete,3,تجاري
+382,1472,complete,3,تجاري
+383,1472,complete,1,سكني
+385,1472,complete,3,تجاري
+386,1469,not-used,NULL,غير محدد
+387,1469,not-used,NULL,غير محدد
+388,1469,not-used,NULL,غير محدد
+389,1469,not-used,NULL,غير محدد
+390,1469,not-used,NULL,غير محدد
+391,1469,not-used,NULL,غير محدد
+392,1469,not-used,NULL,غير محدد
+393,1469,not-used,NULL,غير محدد
+394,1469,not-used,NULL,غير محدد
+395,1469,not-used,NULL,غير محدد
+396,1469,not-used,NULL,غير محدد
+397,1122,not-used,NULL,غير محدد
+398,1122,complete,1,سكني
+399,1475,complete,6,استخدامات اخرى
+400,1481,complete,3,تجاري
+401,1482,complete,3,تجاري
+402,1256,complete,3,تجاري
+403,1256,not-used,NULL,غير محدد
+404,1256,not-used,NULL,غير محدد
+405,1256,complete,NULL,غير محدد
+406,1256,complete,NULL,غير محدد
+407,1256,complete,NULL,غير محدد
+408,1256,not-used,NULL,غير محدد
+409,1256,not-used,NULL,غير محدد
+410,1256,not-used,NULL,غير محدد
+411,1256,not-used,NULL,غير محدد
+412,1256,not-used,NULL,غير محدد
+413,1479,complete,3,تجاري
+414,1919,complete,NULL,غير محدد
+415,1919,complete,NULL,غير محدد
+416,1486,complete,3,تجاري
+417,1486,complete,3,تجاري
+419,1248,complete,3,تجاري
+420,1474,complete,3,تجاري
+421,1474,complete,3,تجاري
+422,1474,not-used,NULL,غير محدد
+423,1474,complete,1,سكني
+424,1474,complete,1,سكني
+425,1474,complete,NULL,غير محدد
+426,1474,complete,1,سكني
+427,1474,complete,1,سكني
+428,1474,complete,1,سكني
+429,1474,complete,NULL,غير محدد
+430,1474,complete,1,سكني
+431,1474,not-used,NULL,غير محدد
+432,573,complete,1,سكني
+433,573,complete,1,سكني
+434,573,not-used,NULL,غير محدد
+435,573,not-used,NULL,غير محدد
+436,1512,not-used,NULL,غير محدد
+437,1784,not-used,NULL,غير محدد
+438,1784,not-used,NULL,غير محدد
+439,1920,not-used,NULL,غير محدد
+440,1920,not-used,NULL,غير محدد
+441,1536,not-used,NULL,غير محدد
+442,1536,not-used,NULL,غير محدد
+443,1535,not-used,NULL,غير محدد
+444,603,complete,1,سكني
+445,603,complete,1,سكني
+446,1525,complete,1,سكني
+447,1531,not-used,NULL,غير محدد
+448,1531,complete,1,سكني
+449,1529,complete,1,سكني
+450,1527,complete,1,سكني
+451,1528,complete,1,سكني
+452,1519,not-used,NULL,غير محدد
+453,1519,not-used,NULL,غير محدد
+454,630,complete,1,سكني
+455,630,not-used,NULL,غير محدد
+456,1253,complete,1,سكني
+457,1253,complete,1,سكني
+458,1476,complete,3,تجاري
+459,1853,not-used,NULL,غير محدد
+460,1261,complete,1,سكني
+461,1261,complete,1,سكني
+462,1261,not-used,NULL,غير محدد
+463,1258,not-used,NULL,غير محدد
+464,1258,complete,1,سكني
+465,608,not-used,NULL,غير محدد
+466,608,not-used,NULL,غير محدد
+467,608,not-used,NULL,غير محدد
+468,608,complete,NULL,غير محدد
+469,608,not-used,NULL,غير محدد
+470,608,not-used,NULL,غير محدد
+471,608,not-used,NULL,غير محدد
+472,608,not-used,NULL,غير محدد
+473,608,not-used,NULL,غير محدد
+474,608,not-used,NULL,غير محدد
+475,608,not-used,NULL,غير محدد
+476,608,not-used,NULL,غير محدد
+477,1123,complete,1,سكني
+478,1123,complete,1,سكني
+479,1123,complete,1,سكني
+480,750,complete,1,سكني
+481,750,complete,1,سكني
+482,750,complete,1,سكني
+483,750,complete,1,سكني
+484,750,complete,1,سكني
+485,1860,complete,7,مدني
+486,1860,not-used,NULL,غير محدد
+487,1478,complete,3,تجاري
+488,1478,not-used,NULL,غير محدد
+489,1478,not-used,NULL,غير محدد
+490,1478,not-used,NULL,غير محدد
+491,1376,not-used,NULL,غير محدد
+492,1376,complete,1,سكني
+493,1376,not-used,NULL,غير محدد
+494,1497,complete,3,تجاري
+495,1496,complete,3,تجاري
+496,1495,complete,1,سكني
+497,1494,not-used,NULL,غير محدد
+498,1136,not-used,NULL,غير محدد
+499,1136,complete,1,سكني
+500,1136,complete,1,سكني
+501,1136,not-used,NULL,غير محدد
+502,1136,not-used,NULL,غير محدد
+503,1229,not-used,NULL,غير محدد
+504,1229,complete,1,سكني
+505,1229,not-used,NULL,غير محدد
+506,1229,not-used,NULL,غير محدد
+507,1498,not-used,NULL,غير محدد
+508,1498,complete,3,تجاري
+509,1498,complete,3,تجاري
+510,1498,complete,3,تجاري
+511,1498,not-used,NULL,غير محدد
+512,1498,not-used,NULL,غير محدد
+513,1200,complete,1,سكني
+514,1200,complete,1,سكني
+515,1195,complete,3,تجاري
+516,1195,not-used,NULL,غير محدد
+517,1095,not-used,NULL,غير محدد
+518,1095,not-used,NULL,غير محدد
+519,1095,not-used,NULL,غير محدد
+520,1641,complete,1,سكني
+521,1641,complete,3,تجاري
+522,1138,complete,3,تجاري
+523,1138,complete,3,تجاري
+524,1138,complete,3,تجاري
+525,1138,complete,3,تجاري
+526,1138,not-used,NULL,غير محدد
+527,1138,not-used,NULL,غير محدد
+528,1499,not-used,NULL,غير محدد
+529,1499,complete,1,سكني
+530,1522,complete,1,سكني
+531,1522,not-used,NULL,غير محدد
+532,1522,complete,1,سكني
+533,717,not-used,NULL,غير محدد
+534,717,not-used,NULL,غير محدد
+535,1511,not-used,NULL,غير محدد
+536,1511,not-used,NULL,غير محدد
+537,1520,not-used,NULL,غير محدد
+538,1520,not-used,NULL,غير محدد
+539,1135,complete,3,تجاري
+540,1135,complete,3,تجاري
+541,1135,not-used,NULL,غير محدد
+542,1135,complete,3,تجاري
+543,1135,complete,1,سكني
+544,1135,not-used,NULL,غير محدد
+545,1135,not-used,NULL,غير محدد
+546,1135,not-used,NULL,غير محدد
+547,1018,not-used,NULL,غير محدد
+548,1018,complete,3,تجاري
+549,1018,complete,3,تجاري
+550,575,complete,3,تجاري
+551,575,complete,10,صحي
+552,575,complete,3,تجاري
+553,575,complete,1,سكني
+554,575,complete,1,سكني
+555,1263,complete,3,تجاري
+556,632,not-used,NULL,غير محدد
+557,632,not-used,NULL,غير محدد
+558,632,not-used,NULL,غير محدد
+559,632,not-used,NULL,غير محدد
+560,632,not-used,NULL,غير محدد
+561,1927,complete,3,تجاري
+562,1068,complete,3,تجاري
+563,1377,complete,1,سكني
+564,1377,complete,NULL,غير محدد
+565,1377,complete,1,سكني
+566,1378,complete,3,تجاري
+567,1378,complete,3,تجاري
+568,1378,complete,3,تجاري
+569,1378,not-used,NULL,غير محدد
+570,1119,complete,1,سكني
+571,1119,complete,NULL,غير محدد
+572,1119,complete,NULL,غير محدد
+573,606,complete,3,تجاري
+574,606,not-used,NULL,غير محدد
+575,606,complete,3,تجاري
+576,606,complete,3,تجاري
+577,606,complete,3,تجاري
+578,606,not-used,NULL,غير محدد
+579,705,complete,1,سكني
+580,705,not-used,NULL,غير محدد
+581,1483,complete,1,سكني
+582,1483,complete,1,سكني
+583,1483,complete,1,سكني
+584,1483,complete,3,تجاري
+585,1489,complete,1,سكني
+586,1490,complete,1,سكني
+587,1490,not-used,NULL,غير محدد
+588,610,complete,1,سكني
+589,610,not-used,NULL,غير محدد
+590,1484,complete,3,تجاري
+591,1485,not-used,NULL,غير محدد
+592,676,complete,1,سكني
+593,1928,not-used,NULL,غير محدد
+594,1928,not-used,NULL,غير محدد
+595,678,complete,1,سكني
+596,678,complete,3,تجاري
+597,678,complete,NULL,غير محدد
+598,678,complete,3,تجاري
+599,678,complete,NULL,غير محدد
+600,678,complete,NULL,غير محدد
+601,1201,complete,1,سكني
+602,1201,complete,1,سكني
+603,1037,complete,3,تجاري
+604,1037,complete,3,تجاري
+605,1037,not-used,NULL,غير محدد
+606,1037,complete,1,سكني
+607,1514,complete,6,استخدامات اخرى
+608,1515,not-used,NULL,غير محدد
+610,1516,not-used,NULL,غير محدد
+611,1487,complete,6,استخدامات اخرى
+612,1116,complete,1,سكني
+613,1513,not-used,NULL,غير محدد
+614,1513,not-used,NULL,غير محدد
+615,1513,complete,1,سكني
+616,1513,complete,1,سكني
+617,723,complete,NULL,غير محدد
+618,723,complete,NULL,غير محدد
+619,723,complete,8,ديني
+620,718,complete,1,سكني
+621,718,not-used,NULL,غير محدد
+622,718,complete,1,سكني
+623,1517,not-used,NULL,غير محدد
+624,1517,not-used,NULL,غير محدد
+625,1517,not-used,NULL,غير محدد
+626,1517,complete,1,سكني
+627,620,not-used,NULL,غير محدد
+628,620,complete,3,تجاري
+629,1488,complete,3,تجاري
+630,1493,complete,3,تجاري
+631,1493,not-used,NULL,غير محدد
+632,1493,not-used,NULL,غير محدد
+633,1473,complete,6,استخدامات اخرى
+634,1931,not-used,NULL,غير محدد
+635,1260,complete,3,تجاري
+636,1260,complete,3,تجاري
+637,1260,complete,3,تجاري
+638,1260,complete,NULL,غير محدد
+639,1260,not-used,NULL,غير محدد
+640,1932,not-used,NULL,غير محدد
+641,1491,not-used,NULL,غير محدد
+642,1515,not-used,NULL,غير محدد
+643,1121,complete,1,سكني
+644,1121,complete,1,سكني
+645,1121,not-used,NULL,غير محدد
+646,1121,complete,1,سكني
+647,620,complete,3,تجاري
+648,620,complete,3,تجاري
+649,620,complete,3,تجاري
+650,620,complete,1,سكني
+651,620,not-used,NULL,غير محدد
+652,620,complete,1,سكني
+653,620,complete,1,سكني
+654,619,complete,1,سكني
+655,1257,complete,3,تجاري
+656,1257,not-used,NULL,غير محدد
+657,1257,complete,1,سكني
+658,1257,complete,1,سكني
+659,1257,complete,1,سكني
+660,605,complete,3,تجاري
+661,605,not-used,NULL,غير محدد
+662,605,complete,3,تجاري
+663,1767,complete,3,تجاري
+664,1767,complete,3,تجاري
+665,605,complete,1,سكني
+666,605,complete,1,سكني
+667,605,complete,1,سكني
+668,565,complete,1,سكني
+669,565,complete,1,سكني
+670,565,complete,1,سكني
+671,1768,complete,3,تجاري
+672,1768,complete,3,تجاري
+673,713,not-used,NULL,غير محدد
+674,713,not-used,1,سكني
+675,713,complete,1,سكني
+676,713,complete,1,سكني
+677,623,not-used,NULL,غير محدد
+678,623,complete,1,سكني
+679,623,complete,1,سكني
+680,629,complete,1,سكني
+681,629,not-used,NULL,غير محدد
+682,629,complete,3,تجاري
+683,629,complete,3,تجاري
+684,629,complete,NULL,غير محدد
+685,629,complete,1,سكني
+686,629,complete,1,سكني
+687,629,not-used,NULL,غير محدد
+688,564,complete,1,سكني
+689,564,complete,1,سكني
+690,564,complete,1,سكني
+691,564,complete,1,سكني
+692,680,complete,1,سكني
+693,1506,not-used,NULL,غير محدد
+694,1767,complete,10,صحي
+695,1767,not-used,NULL,غير محدد
+696,1767,complete,NULL,غير محدد
+697,1503,complete,NULL,غير محدد
+698,628,not-used,NULL,غير محدد
+699,628,not-used,NULL,غير محدد
+700,628,complete,3,تجاري
+701,628,complete,10,صحي
+702,628,complete,3,تجاري
+703,628,complete,1,سكني
+704,1082,complete,3,تجاري
+705,1082,complete,1,سكني
+706,1082,complete,1,سكني
+707,1082,complete,1,سكني
+708,1082,complete,1,سكني
+709,622,not-used,NULL,غير محدد
+710,622,complete,NULL,غير محدد
+711,622,complete,3,تجاري
+712,622,complete,1,سكني
+713,622,complete,1,سكني
+714,622,complete,1,سكني
+715,622,complete,1,سكني
+716,1013,complete,1,سكني
+717,1078,complete,3,تجاري
+718,1078,complete,3,تجاري
+719,1078,complete,3,تجاري
+720,1078,complete,1,سكني
+721,1078,complete,1,سكني
+722,1078,complete,1,سكني
+723,571,not-used,NULL,غير محدد
+724,571,complete,1,سكني
+725,571,complete,1,سكني
+726,571,not-used,NULL,غير محدد
+727,571,complete,1,سكني
+728,571,complete,1,سكني
+729,571,complete,1,سكني
+732,570,complete,1,سكني
+733,570,complete,1,سكني
+734,570,complete,1,سكني
+735,570,complete,NULL,غير محدد
+736,570,not-used,NULL,غير محدد
+739,601,not-used,NULL,غير محدد
+740,601,complete,1,سكني
+741,601,not-used,NULL,غير محدد
+742,576,complete,1,سكني
+743,576,complete,1,سكني
+744,576,complete,6,استخدامات اخرى
+745,576,complete,1,سكني
+746,601,complete,1,سكني
+747,1926,complete,3,تجاري
+748,1926,complete,3,تجاري
+749,1926,complete,3,تجاري
+750,1926,complete,3,تجاري
+751,1926,complete,3,تجاري
+752,1926,complete,1,سكني
+753,1926,not-used,1,سكني
+754,1926,complete,1,سكني
+755,1926,not-used,1,سكني
+756,1713,not-used,NULL,غير محدد
+757,1711,not-used,NULL,غير محدد
+758,1711,not-used,NULL,غير محدد
+761,1710,not-used,NULL,غير محدد
+762,1710,not-used,NULL,غير محدد
+763,1710,not-used,NULL,غير محدد
+764,1710,not-used,NULL,غير محدد
+765,1712,not-used,NULL,غير محدد
+766,1712,not-used,NULL,غير محدد
+767,1712,not-used,NULL,غير محدد
+768,1933,not-used,NULL,غير محدد
+770,1933,not-used,NULL,غير محدد
+771,1010,not-used,NULL,غير محدد
+772,712,not-used,NULL,غير محدد
+773,677,not-used,NULL,غير محدد
+774,677,not-used,NULL,غير محدد
+775,677,complete,1,سكني
+776,1859,not-used,6,استخدامات اخرى
+777,1859,complete,3,تجاري
+778,1859,complete,3,تجاري
+779,1859,not-used,1,سكني
+780,1726,complete,3,تجاري
+781,1015,complete,3,تجاري
+782,1727,complete,3,تجاري
+783,1924,complete,3,تجاري
+784,1913,complete,3,تجاري
+785,1056,complete,3,تجاري
+786,1802,complete,7,مدني
+787,1803,complete,7,مدني
+788,1936,complete,7,مدني
+789,1937,complete,7,مدني
+790,1424,complete,7,مدني
+791,1424,complete,7,مدني
+792,1804,complete,7,مدني
+793,1426,complete,7,مدني
+794,1427,complete,7,مدني
+795,1939,complete,7,مدني
+796,1417,complete,7,مدني
+797,1801,complete,7,مدني
+798,1505,not-used,NULL,غير محدد
+799,1940,complete,7,مدني
+800,1452,complete,7,مدني
+801,1851,complete,7,مدني
+802,1851,complete,7,مدني
+803,703,complete,1,سكني
+804,703,complete,1,سكني
+805,703,complete,1,سكني
+806,1941,complete,7,مدني
+807,1941,complete,7,مدني
+808,1423,complete,3,تجاري
+809,1942,complete,1,سكني
+810,1942,complete,1,سكني
+811,1942,not-used,NULL,غير محدد
+812,1507,not-used,NULL,غير محدد
+813,701,not-used,NULL,غير محدد
+814,701,not-used,NULL,غير محدد
+815,701,complete,1,سكني
+816,624,complete,1,سكني
+817,624,complete,6,استخدامات اخرى
+818,624,not-used,1,سكني
+819,624,complete,1,سكني
+820,679,not-used,NULL,غير محدد
+821,679,complete,1,سكني
+822,1508,not-used,NULL,غير محدد
+823,1056,complete,3,تجاري
+824,1056,complete,3,تجاري
+825,1056,not-used,3,تجاري
+826,1056,complete,3,تجاري
+827,1056,complete,3,تجاري
+828,621,complete,1,سكني
+829,621,not-used,NULL,غير محدد
+830,719,complete,1,سكني
+831,719,complete,1,سكني
+832,719,not-used,NULL,غير محدد
+833,719,complete,1,سكني
+834,719,not-used,NULL,غير محدد
+835,1212,complete,3,تجاري
+836,1509,not-used,NULL,غير محدد
+837,675,complete,1,سكني
+838,675,complete,1,سكني
+839,675,complete,1,سكني
+840,507,complete,3,تجاري
+842,507,complete,3,تجاري
+843,507,not-used,1,سكني
+844,876,complete,1,سكني
+845,600,complete,1,سكني
+846,600,complete,1,سكني
+847,600,complete,1,سكني
+848,600,complete,1,سكني
+849,600,not-used,NULL,غير محدد
+850,600,not-used,NULL,غير محدد
+851,600,not-used,NULL,غير محدد
+856,883,complete,1,سكني
+857,883,complete,1,سكني
+858,883,complete,1,سكني
+859,566,complete,1,سكني
+860,566,not-used,NULL,غير محدد
+861,566,complete,6,استخدامات اخرى
+862,566,not-used,NULL,غير محدد
+863,1900,complete,3,تجاري
+864,467,complete,3,تجاري
+865,467,complete,3,تجاري
+866,467,complete,3,تجاري
+867,467,complete,3,تجاري
+868,1943,not-used,3,تجاري
+869,1943,not-used,3,تجاري
+870,1943,not-used,3,تجاري
+871,525,complete,3,تجاري
+872,525,complete,3,تجاري
+873,525,complete,3,تجاري
+874,525,complete,3,تجاري
+875,525,complete,3,تجاري
+876,1796,complete,3,تجاري
+877,1796,complete,3,تجاري
+878,1796,complete,3,تجاري
+879,1796,complete,1,سكني
+880,1796,not-used,1,سكني
+881,1387,not-used,NULL,غير محدد
+882,1387,complete,1,سكني
+883,1387,complete,1,سكني
+884,1782,complete,1,سكني
+886,1782,complete,1,سكني
+887,1782,complete,1,سكني
+888,1923,complete,3,تجاري
+889,1923,complete,3,تجاري
+890,1923,complete,1,سكني
+891,1923,not-used,1,سكني
+892,1783,complete,1,سكني
+893,1783,not-used,NULL,غير محدد
+894,1783,complete,1,سكني
+895,1783,complete,1,سكني
+896,567,complete,1,سكني
+897,567,complete,1,سكني
+898,567,complete,1,سكني
+899,704,complete,1,سكني
+900,704,complete,1,سكني
+901,704,not-used,NULL,غير محدد
+902,704,not-used,NULL,غير محدد
+903,699,not-used,NULL,غير محدد
+904,1079,complete,1,سكني
+905,1079,complete,1,سكني
+907,1781,complete,1,سكني
+908,1781,complete,1,سكني
+911,682,not-used,NULL,غير محدد
+912,709,complete,1,سكني
+913,709,complete,1,سكني
+914,1780,complete,1,سكني
+915,1799,complete,6,استخدامات اخرى
+916,1800,not-used,6,استخدامات اخرى
+917,1264,complete,3,تجاري
+918,572,complete,1,سكني
+919,572,complete,1,سكني
+920,572,complete,1,سكني
+921,572,complete,1,سكني
+922,618,not-used,NULL,غير محدد
+923,618,not-used,NULL,غير محدد
+924,618,complete,3,تجاري
+925,618,complete,1,سكني
+926,707,complete,1,سكني
+927,707,complete,1,سكني
+928,707,not-used,NULL,غير محدد
+929,715,complete,1,سكني
+930,887,complete,4,صناعي
+931,887,complete,1,سكني
+932,887,not-used,NULL,غير محدد
+933,887,not-used,NULL,غير محدد
+934,887,complete,1,سكني
+935,887,not-used,NULL,غير محدد
+936,616,not-used,NULL,غير محدد
+937,616,complete,6,استخدامات اخرى
+938,616,not-used,NULL,غير محدد
+939,616,complete,1,سكني
+940,1938,complete,3,تجاري
+941,1938,complete,3,تجاري
+942,1938,complete,3,تجاري
+943,1938,not-used,1,سكني
+944,753,complete,1,سكني
+945,753,not-used,NULL,غير محدد
+946,753,complete,1,سكني
+947,753,not-used,NULL,غير محدد
+948,626,complete,1,سكني
+950,626,not-used,1,سكني
+951,626,complete,1,سكني
+955,1502,complete,1,سكني
+956,1502,complete,NULL,غير محدد
+957,1502,not-used,NULL,غير محدد
+958,626,complete,3,تجاري
+959,626,complete,3,تجاري
+960,626,not-used,1,سكني
+968,1929,complete,3,تجاري
+969,1944,not-used,NULL,غير محدد
+970,1944,not-used,NULL,غير محدد
+971,1944,not-used,NULL,غير محدد
+972,1944,complete,3,تجاري
+973,1944,not-used,NULL,غير محدد
+974,1944,complete,1,سكني
+975,1944,not-used,NULL,غير محدد
+976,712,complete,1,سكني
+977,712,not-used,NULL,غير محدد
+978,714,not-used,NULL,غير محدد
+979,714,complete,1,سكني
+980,714,complete,1,سكني
+981,721,complete,1,سكني
+982,721,not-used,NULL,غير محدد
+983,721,complete,1,سكني
+984,721,complete,1,سكني
+985,721,complete,1,سكني
+986,721,complete,1,سكني
+987,710,complete,1,سكني
+988,710,not-used,NULL,غير محدد
+989,710,complete,1,سكني
+990,710,complete,1,سكني
+991,1858,not-used,6,استخدامات اخرى
+992,1858,complete,3,تجاري
+993,1858,complete,3,تجاري
+994,1858,complete,1,سكني
+995,1858,not-used,1,سكني
+996,1537,complete,1,سكني
+997,560,not-used,NULL,غير محدد
+998,560,complete,1,سكني
+999,560,not-used,NULL,غير محدد
+1000,560,complete,1,سكني
+1001,674,complete,1,سكني
+1002,674,complete,1,سكني
+1003,674,not-used,NULL,غير محدد
+1004,1732,complete,3,تجاري
+1005,1732,complete,1,سكني
+1006,1732,not-used,NULL,غير محدد
+1007,39,complete,6,استخدامات اخرى
+1008,934,complete,1,سكني
+1009,1540,not-used,NULL,غير محدد
+1010,1945,not-used,1,سكني
+1011,1945,complete,1,سكني
+1012,1410,complete,6,استخدامات اخرى
+1013,615,complete,1,سكني
+1014,924,complete,1,سكني
+1015,924,complete,1,سكني
+1016,924,complete,1,سكني
+1017,924,not-used,NULL,غير محدد
+1018,1946,not-used,6,استخدامات اخرى
+1019,1411,complete,6,استخدامات اخرى
+1020,1404,complete,3,تجاري
+1021,511,not-used,6,استخدامات اخرى
+1022,866,complete,6,استخدامات اخرى
+1023,866,complete,6,استخدامات اخرى
+1024,866,complete,6,استخدامات اخرى
+1025,866,complete,6,استخدامات اخرى
+1026,866,complete,6,استخدامات اخرى
+1027,866,complete,6,استخدامات اخرى
+1028,866,complete,6,استخدامات اخرى
+1029,866,complete,1,سكني
+1030,1541,not-used,NULL,غير محدد
+1031,1541,complete,1,سكني
+1032,1541,not-used,NULL,غير محدد
+1033,1431,not-used,3,تجاري
+1034,1542,not-used,NULL,غير محدد
+1035,1542,not-used,NULL,غير محدد
+1036,1947,complete,3,تجاري
+1037,848,complete,1,سكني
+1038,848,complete,1,سكني
+1039,1819,not-used,NULL,غير محدد
+1040,1948,complete,3,تجاري
+1041,1798,not-used,6,استخدامات اخرى
+1043,666,complete,1,سكني
+1044,666,complete,1,سكني
+1045,666,not-used,NULL,غير محدد
+1046,867,complete,1,سكني
+1047,1538,not-used,NULL,غير محدد
+1048,1949,complete,3,تجاري
+1049,1949,complete,3,تجاري
+1050,1949,not-used,3,تجاري
+1051,1852,complete,3,تجاري
+1052,1950,complete,3,تجاري
+1053,463,complete,1,سكني
+1054,587,complete,6,استخدامات اخرى
+1055,587,complete,1,سكني
+1056,657,not-used,NULL,غير محدد
+1057,657,complete,1,سكني
+1058,657,not-used,NULL,غير محدد
+1059,657,not-used,NULL,غير محدد
+1060,928,complete,1,سكني
+1061,928,complete,1,سكني
+1062,928,complete,1,سكني
+1063,1429,complete,3,تجاري
+1064,1847,complete,1,سكني
+1065,1847,not-used,NULL,غير محدد
+1066,1847,complete,1,سكني
+1068,1000,complete,1,سكني
+1069,1000,complete,1,سكني
+1070,1000,complete,1,سكني
+1071,1405,complete,3,تجاري
+1072,884,not-used,NULL,غير محدد
+1073,884,not-used,NULL,غير محدد
+1074,984,not-used,NULL,غير محدد
+1075,984,not-used,NULL,غير محدد
+1080,981,not-used,NULL,غير محدد
+1081,981,complete,1,سكني
+1082,981,not-used,NULL,غير محدد
+1083,981,not-used,NULL,غير محدد
+1084,942,complete,1,سكني
+1085,942,complete,1,سكني
+1086,942,complete,1,سكني
+1087,1866,complete,1,سكني
+1088,1866,complete,1,سكني
+1089,1866,not-used,NULL,غير محدد
+1090,1866,complete,1,سكني
+1091,1733,complete,4,صناعي
+1092,1545,complete,1,سكني
+1093,1546,not-used,NULL,غير محدد
+1094,860,complete,1,سكني
+1095,860,not-used,NULL,غير محدد
+1096,940,complete,1,سكني
+1097,940,complete,1,سكني
+1098,940,not-used,NULL,غير محدد
+1099,940,not-used,NULL,غير محدد
+1100,1080,not-used,NULL,غير محدد
+1101,1080,complete,3,تجاري
+1102,1080,not-used,NULL,غير محدد
+1103,1080,complete,3,تجاري
+1104,1080,complete,3,تجاري
+1105,1080,not-used,NULL,غير محدد
+1106,1590,not-used,NULL,غير محدد
+1107,1590,complete,1,سكني
+1108,955,complete,1,سكني
+1109,1790,not-used,NULL,غير محدد
+1110,1790,complete,NULL,غير محدد
+1111,1790,not-used,NULL,غير محدد
+1112,1790,not-used,NULL,غير محدد
+1113,1544,complete,1,سكني
+1114,1544,not-used,NULL,غير محدد
+1115,1019,not-used,NULL,غير محدد
+1116,1019,complete,3,تجاري
+1117,1019,complete,3,تجاري
+1118,1194,complete,6,استخدامات اخرى
+1119,1194,complete,3,تجاري
+1120,1786,complete,3,تجاري
+1121,1786,complete,3,تجاري
+1122,1786,complete,3,تجاري
+1123,1723,complete,3,تجاري
+1124,1723,complete,3,تجاري
+1125,913,complete,1,سكني
+1126,913,not-used,NULL,غير محدد
+1127,913,complete,1,سكني
+1128,913,complete,1,سكني
+1129,913,not-used,NULL,غير محدد
+1130,1049,not-used,NULL,غير محدد
+1131,1049,complete,1,سكني
+1132,1049,not-used,NULL,غير محدد
+1133,1049,complete,3,تجاري
+1134,1049,complete,3,تجاري
+1135,1049,not-used,NULL,غير محدد
+1136,902,not-used,NULL,غير محدد
+1137,902,not-used,NULL,غير محدد
+1138,902,complete,1,سكني
+1139,902,complete,1,سكني
+1140,902,not-used,NULL,غير محدد
+1141,1547,not-used,NULL,غير محدد
+1142,997,not-used,NULL,غير محدد
+1143,997,complete,1,سكني
+1144,997,not-used,NULL,غير محدد
+1146,915,not-used,NULL,غير محدد
+1147,951,not-used,NULL,غير محدد
+1148,951,complete,1,سكني
+1149,951,complete,1,سكني
+1151,869,complete,1,سكني
+1152,869,not-used,NULL,غير محدد
+1153,869,not-used,NULL,غير محدد
+1154,869,complete,1,سكني
+1155,869,complete,1,سكني
+1156,869,complete,1,سكني
+1157,915,complete,1,سكني
+1158,915,complete,1,سكني
+1159,875,not-used,NULL,غير محدد
+1160,875,complete,1,سكني
+1161,875,not-used,NULL,غير محدد
+1162,1548,not-used,NULL,غير محدد
+1163,1549,not-used,NULL,غير محدد
+1164,873,not-used,NULL,غير محدد
+1165,873,not-used,NULL,غير محدد
+1166,873,not-used,NULL,غير محدد
+1167,1420,not-used,NULL,غير محدد
+1168,1420,complete,10,صحي
+1169,1422,not-used,NULL,غير محدد
+1170,1422,not-used,NULL,غير محدد
+1171,1418,complete,1,سكني
+1172,1418,not-used,NULL,غير محدد
+1173,1373,complete,1,سكني
+1174,1373,complete,1,سكني
+1175,1373,complete,1,سكني
+1176,1373,not-used,NULL,غير محدد
+1177,1776,not-used,NULL,غير محدد
+1178,1776,complete,3,تجاري
+1179,1776,complete,1,سكني
+1180,1776,complete,3,تجاري
+1181,1776,not-used,NULL,غير محدد
+1182,1776,not-used,NULL,غير محدد
+1183,1012,not-used,NULL,غير محدد
+1184,1012,complete,1,سكني
+1185,1012,complete,3,تجاري
+1186,1012,complete,3,تجاري
+1187,1012,complete,3,تجاري
+1188,1012,complete,3,تجاري
+1189,1012,complete,3,تجاري
+1190,1012,not-used,NULL,غير محدد
+1191,1012,not-used,NULL,غير محدد
+1192,1012,complete,3,تجاري
+1193,1012,not-used,NULL,غير محدد
+1194,1012,not-used,NULL,غير محدد
+1195,1012,complete,1,سكني
+1197,1223,complete,3,تجاري
+1200,1227,not-used,NULL,غير محدد
+1201,1451,not-used,NULL,غير محدد
+1202,1125,not-used,NULL,غير محدد
+1203,1133,complete,3,تجاري
+1204,1133,not-used,NULL,غير محدد
+1205,1133,complete,1,سكني
+1206,1133,complete,1,سكني
+1207,1724,not-used,NULL,غير محدد
+1208,1724,not-used,NULL,غير محدد
+1209,1070,complete,3,تجاري
+1210,1070,complete,1,سكني
+1211,1050,not-used,NULL,غير محدد
+1212,1050,complete,3,تجاري
+1213,708,not-used,NULL,غير محدد
+1214,708,not-used,NULL,غير محدد
+1215,732,not-used,NULL,غير محدد
+1216,732,not-used,NULL,غير محدد
+1217,732,not-used,NULL,غير محدد
+1218,1953,not-used,NULL,غير محدد
+1219,1953,complete,3,تجاري
+1220,1953,complete,3,تجاري
+1221,1953,not-used,NULL,غير محدد
+1222,1191,complete,3,تجاري
+1223,1191,not-used,NULL,غير محدد
+1224,1642,complete,6,استخدامات اخرى
+1225,1373,not-used,NULL,غير محدد
+1226,1720,not-used,NULL,غير محدد
+1227,1720,not-used,NULL,غير محدد
+1228,1720,not-used,NULL,غير محدد
+1229,1720,complete,1,سكني
+1230,1720,complete,1,سكني
+1231,1720,not-used,NULL,غير محدد
+1232,1720,complete,1,سكني
+1233,1720,not-used,NULL,غير محدد
+1234,1050,complete,1,سكني
+1235,1050,complete,3,تجاري
+1236,1050,not-used,NULL,غير محدد
+1237,1050,complete,3,تجاري
+1238,620,complete,3,تجاري
+1239,620,complete,3,تجاري
+1240,620,complete,3,تجاري
+1241,1954,not-used,NULL,غير محدد
+1242,1954,not-used,NULL,غير محدد
+1243,945,complete,1,سكني
+1244,945,not-used,NULL,غير محدد
+1245,945,not-used,NULL,غير محدد
+1246,945,complete,1,سكني
+1247,844,complete,1,سكني
+1248,844,complete,1,سكني
+1249,844,not-used,NULL,غير محدد
+1250,847,complete,1,سكني
+1251,847,complete,1,سكني
+1253,844,complete,4,صناعي
+1254,937,complete,1,سكني
+1255,937,complete,4,صناعي
+1256,1955,not-used,NULL,غير محدد
+1257,1955,not-used,NULL,غير محدد
+1258,1955,not-used,NULL,غير محدد
+1259,1636,complete,6,استخدامات اخرى
+1261,830,complete,1,سكني
+1262,830,complete,1,سكني
+1263,976,complete,1,سكني
+1264,976,complete,4,صناعي
+1265,976,complete,4,صناعي
+1266,976,complete,4,صناعي
+1267,976,complete,4,صناعي
+1268,831,not-used,NULL,غير محدد
+1269,831,not-used,NULL,غير محدد
+1270,1956,not-used,NULL,غير محدد
+1271,1956,not-used,NULL,غير محدد
+1272,783,not-used,NULL,غير محدد
+1273,783,not-used,NULL,غير محدد
+1274,783,not-used,NULL,غير محدد
+1275,1286,not-used,NULL,غير محدد
+1276,1286,not-used,NULL,غير محدد
+1277,1020,not-used,NULL,غير محدد
+1278,1020,complete,3,تجاري
+1279,1020,complete,8,ديني
+1280,1020,complete,8,ديني
+1281,1020,complete,6,استخدامات اخرى
+1282,755,complete,7,مدني
+1283,755,complete,8,ديني
+1284,944,complete,4,صناعي
+1285,944,complete,1,سكني
+1286,948,complete,4,صناعي
+1287,1592,complete,4,صناعي
+1288,868,complete,4,صناعي
+1289,1434,complete,3,تجاري
+1290,1492,not-used,NULL,غير محدد
+1291,963,complete,1,سكني
+1292,963,complete,1,سكني
+1293,963,complete,1,سكني
+1294,963,not-used,NULL,غير محدد
+1295,1957,complete,1,سكني
+1296,1957,complete,1,سكني
+1297,1957,complete,1,سكني
+1298,1306,complete,1,سكني
+1299,1224,not-used,NULL,غير محدد
+1300,1224,complete,1,سكني
+1301,1224,complete,1,سكني
+1302,1003,complete,1,سكني
+1303,1003,complete,1,سكني
+1304,1003,not-used,NULL,غير محدد
+1305,856,complete,1,سكني
+1306,856,complete,1,سكني
+1307,856,complete,1,سكني
+1308,1077,complete,9,تعليمي
+1309,916,complete,1,سكني
+1310,916,complete,1,سكني
+1311,916,complete,1,سكني
+1312,922,complete,1,سكني
+1313,922,not-used,NULL,غير محدد
+1314,922,complete,1,سكني
+1315,922,complete,1,سكني
+1316,922,not-used,NULL,غير محدد
+1317,922,not-used,NULL,غير محدد
+1318,972,complete,1,سكني
+1319,972,complete,NULL,غير محدد
+1320,972,not-used,NULL,غير محدد
+1321,1335,complete,6,استخدامات اخرى
+1322,1335,complete,1,سكني
+1323,1335,complete,1,سكني
+1324,1335,complete,1,سكني
+1325,1295,complete,1,سكني
+1326,1295,not-used,NULL,غير محدد
+1327,1295,complete,1,سكني
+1328,1295,complete,3,تجاري
+1329,1295,complete,1,سكني
+1330,1295,complete,1,سكني
+1331,1295,complete,1,سكني
+1332,1295,complete,1,سكني
+1333,1957,complete,6,استخدامات اخرى
+1334,1957,complete,6,استخدامات اخرى
+1335,1239,not-used,1,سكني
+1336,1306,complete,1,سكني
+1337,1306,complete,3,تجاري
+1338,1306,complete,6,استخدامات اخرى
+1339,1306,complete,6,استخدامات اخرى
+1340,1306,complete,1,سكني
+1341,1306,complete,6,استخدامات اخرى
+1342,1958,not-used,NULL,غير محدد
+1343,1958,not-used,NULL,غير محدد
+1344,1958,not-used,NULL,غير محدد
+1345,1958,not-used,NULL,غير محدد
+1346,1958,not-used,NULL,غير محدد
+1347,1958,not-used,NULL,غير محدد
+1348,1272,complete,9,تعليمي
+1349,1272,complete,1,سكني
+1350,1033,complete,1,سكني
+1351,1033,not-used,NULL,غير محدد
+1352,1033,complete,1,سكني
+1353,1033,complete,1,سكني
+1354,849,not-used,NULL,غير محدد
+1355,889,complete,1,سكني
+1356,889,complete,1,سكني
+1357,932,complete,1,سكني
+1358,932,complete,1,سكني
+1359,1585,not-used,NULL,غير محدد
+1360,1585,not-used,NULL,غير محدد
+1361,1586,not-used,NULL,غير محدد
+1362,1586,not-used,NULL,غير محدد
+1363,1584,not-used,NULL,غير محدد
+1364,1584,not-used,NULL,غير محدد
+1365,559,complete,3,تجاري
+1366,559,complete,3,تجاري
+1367,559,complete,1,سكني
+1368,917,complete,1,سكني
+1369,917,complete,1,سكني
+1370,917,not-used,NULL,غير محدد
+1371,927,complete,1,سكني
+1372,927,complete,1,سكني
+1373,927,complete,1,سكني
+1374,927,not-used,NULL,غير محدد
+1375,959,complete,1,سكني
+1376,959,complete,1,سكني
+1377,959,not-used,NULL,غير محدد
+1378,720,not-used,NULL,غير محدد
+1379,720,complete,1,سكني
+1380,720,complete,1,سكني
+1381,720,not-used,NULL,غير محدد
+1382,720,complete,1,سكني
+1383,631,not-used,NULL,غير محدد
+1384,631,not-used,NULL,غير محدد
+1385,631,not-used,NULL,غير محدد
+1386,631,complete,1,سكني
+1387,631,complete,3,تجاري
+1388,631,complete,3,تجاري
+1389,631,complete,1,سكني
+1390,631,not-used,NULL,غير محدد
+1391,631,complete,1,سكني
+1392,631,not-used,NULL,غير محدد
+1393,631,complete,1,سكني
+1394,917,complete,1,سكني
+1395,917,complete,1,سكني
+1399,892,complete,1,سكني
+1402,897,complete,1,سكني
+1403,897,complete,1,سكني
+1404,897,complete,1,سكني
+1405,897,not-used,NULL,غير محدد
+1406,968,complete,1,سكني
+1407,968,complete,1,سكني
+1408,968,complete,1,سكني
+1409,1274,complete,3,تجاري
+1410,1274,complete,3,تجاري
+1411,1274,complete,1,سكني
+1412,964,complete,6,استخدامات اخرى
+1413,964,complete,3,تجاري
+1414,964,complete,1,سكني
+1415,1553,complete,1,سكني
+1416,1553,not-used,NULL,غير محدد
+1417,918,complete,1,سكني
+1418,918,complete,1,سكني
+1419,918,complete,1,سكني
+1420,909,complete,1,سكني
+1421,909,not-used,NULL,غير محدد
+1422,987,complete,1,سكني
+1423,987,complete,1,سكني
+1424,987,complete,1,سكني
+1425,1873,not-used,NULL,غير محدد
+1426,1873,not-used,NULL,غير محدد
+1427,1873,complete,1,سكني
+1428,734,complete,1,سكني
+1429,734,complete,1,سكني
+1430,734,complete,1,سكني
+1431,734,complete,1,سكني
+1432,973,complete,1,سكني
+1433,973,complete,1,سكني
+1434,996,not-used,NULL,غير محدد
+1435,996,complete,1,سكني
+1438,1714,complete,1,سكني
+1439,1714,complete,1,سكني
+1440,1161,complete,1,سكني
+1441,1161,complete,1,سكني
+1442,1225,not-used,NULL,غير محدد
+1443,1216,complete,3,تجاري
+1444,1216,complete,3,تجاري
+1445,1184,complete,1,سكني
+1446,1184,not-used,NULL,غير محدد
+1447,1074,complete,1,سكني
+1448,1074,complete,1,سكني
+1449,1160,complete,1,سكني
+1450,1160,complete,1,سكني
+1451,1934,complete,1,سكني
+1452,1088,complete,1,سكني
+1453,1088,complete,1,سكني
+1454,1088,complete,1,سكني
+1455,1088,complete,1,سكني
+1456,1083,complete,3,تجاري
+1457,1083,complete,3,تجاري
+1458,1083,complete,3,تجاري
+1459,1083,complete,3,تجاري
+1460,1083,complete,3,تجاري
+1461,1083,complete,3,تجاري
+1462,1083,not-used,NULL,غير محدد
+1463,1083,not-used,NULL,غير محدد
+1464,1083,complete,1,سكني
+1465,1083,complete,1,سكني
+1466,1083,not-used,NULL,غير محدد
+1467,1084,complete,3,تجاري
+1468,1084,not-used,NULL,غير محدد
+1469,1128,complete,3,تجاري
+1470,1128,complete,1,سكني
+1471,1128,complete,1,سكني
+1472,1193,complete,3,تجاري
+1473,1193,complete,3,تجاري
+1474,1193,complete,10,صحي
+1475,1193,complete,3,تجاري
+1476,1026,complete,3,تجاري
+1477,804,complete,6,استخدامات اخرى
+1478,804,complete,1,سكني
+1479,1161,complete,1,سكني
+1480,1779,complete,3,تجاري
+1481,1779,complete,3,تجاري
+1482,1779,complete,3,تجاري
+1483,1779,complete,3,تجاري
+1484,1779,complete,3,تجاري
+1485,1779,not-used,NULL,غير محدد
+1486,1779,not-used,NULL,غير محدد
+1487,1959,complete,3,تجاري
+1488,1959,complete,3,تجاري
+1489,1959,not-used,NULL,غير محدد
+1490,1959,not-used,NULL,غير محدد
+1491,1568,not-used,NULL,غير محدد
+1492,1568,complete,1,سكني
+1493,1568,complete,1,سكني
+1494,813,complete,1,سكني
+1495,830,complete,1,سكني
+1496,830,complete,1,سكني
+1497,1725,complete,3,تجاري
+1498,1725,complete,3,تجاري
+1499,1725,complete,1,سكني
+1500,1725,complete,1,سكني
+1501,1159,not-used,NULL,غير محدد
+1502,1159,complete,10,صحي
+1503,1159,not-used,NULL,غير محدد
+1504,1159,complete,1,سكني
+1505,1159,complete,1,سكني
+1506,1693,complete,1,سكني
+1507,1689,not-used,NULL,غير محدد
+1508,1689,not-used,NULL,غير محدد
+1509,1960,not-used,NULL,غير محدد
+1510,1961,not-used,NULL,غير محدد
+1511,1690,complete,3,تجاري
+1512,1690,not-used,NULL,غير محدد
+1513,1690,not-used,NULL,غير محدد
+1514,1688,not-used,NULL,غير محدد
+1515,1688,not-used,NULL,غير محدد
+1516,1688,complete,1,سكني
+1517,1696,not-used,NULL,غير محدد
+1518,1696,not-used,NULL,غير محدد
+1519,1697,complete,1,سكني
+1520,1247,complete,1,سكني
+1521,1247,complete,1,سكني
+1522,1247,not-used,NULL,غير محدد
+1523,1698,complete,6,استخدامات اخرى
+1524,1962,complete,6,استخدامات اخرى
+1525,737,complete,1,سكني
+1526,737,complete,1,سكني
+1527,737,complete,1,سكني
+1528,737,complete,1,سكني
+1529,737,complete,1,سكني
+1530,954,complete,1,سكني
+1531,775,complete,1,سكني
+1533,824,complete,1,سكني
+1534,824,complete,1,سكني
+1535,824,not-used,NULL,غير محدد
+1536,991,complete,1,سكني
+1537,991,complete,1,سكني
+1539,893,complete,1,سكني
+1540,893,complete,1,سكني
+1541,893,not-used,NULL,غير محدد
+1542,893,not-used,NULL,غير محدد
+1543,1963,complete,1,سكني
+1544,1963,complete,6,استخدامات اخرى
+1545,1963,complete,1,سكني
+1546,1963,complete,1,سكني
+1547,1963,complete,1,سكني
+1548,1963,complete,1,سكني
+1549,1963,complete,1,سكني
+1550,1963,complete,1,سكني
+1551,969,not-used,NULL,غير محدد
+1552,969,complete,1,سكني
+1553,969,not-used,NULL,غير محدد
+1554,969,not-used,NULL,غير محدد
+1555,1588,complete,1,سكني
+1556,1587,complete,1,سكني
+1557,821,complete,1,سكني
+1558,821,complete,1,سكني
+1559,821,not-used,NULL,غير محدد
+1560,834,complete,1,سكني
+1561,834,complete,1,سكني
+1562,749,complete,1,سكني
+1563,749,complete,1,سكني
+1564,749,complete,1,سكني
+1565,749,not-used,NULL,غير محدد
+1566,749,complete,1,سكني
+1567,749,complete,1,سكني
+1568,749,not-used,NULL,غير محدد
+1569,1081,complete,3,تجاري
+1570,1081,complete,3,تجاري
+1571,1081,complete,3,تجاري
+1572,1081,complete,3,تجاري
+1573,1081,complete,3,تجاري
+1574,1081,complete,3,تجاري
+1575,1081,complete,1,سكني
+1576,1081,complete,1,سكني
+1577,1081,complete,1,سكني
+1578,1081,complete,1,سكني
+1579,1081,complete,1,سكني
+1580,1202,complete,1,سكني
+1581,1202,complete,1,سكني
+1582,1202,complete,1,سكني
+1583,1202,complete,9,تعليمي
+1584,1785,complete,3,تجاري
+1585,1785,complete,1,سكني
+1586,1785,complete,1,سكني
+1587,1785,complete,1,سكني
+1588,781,complete,1,سكني
+1589,781,complete,1,سكني
+1590,781,complete,1,سكني
+1591,781,complete,6,استخدامات اخرى
+1592,781,complete,1,سكني
+1593,781,not-used,NULL,غير محدد
+1594,787,complete,1,سكني
+1595,787,complete,1,سكني
+1596,787,not-used,NULL,غير محدد
+1597,787,not-used,NULL,غير محدد
+1598,788,complete,1,سكني
+1599,788,complete,1,سكني
+1602,1964,complete,9,تعليمي
+1603,1964,complete,1,سكني
+1604,1965,complete,1,سكني
+1605,1965,complete,1,سكني
+1608,985,complete,1,سكني
+1609,1193,complete,1,سكني
+1610,1193,complete,1,سكني
+1611,1193,not-used,NULL,غير محدد
+1612,1193,complete,1,سكني
+1613,1193,complete,1,سكني
+1614,1193,complete,1,سكني
+1615,1193,not-used,NULL,غير محدد
+1616,1193,complete,1,سكني
+1617,1193,complete,1,سكني
+1618,1193,not-used,NULL,غير محدد
+1619,1193,complete,1,سكني
+1620,1193,not-used,NULL,غير محدد
+1621,1218,complete,3,تجاري
+1622,1218,complete,3,تجاري
+1623,1218,complete,1,سكني
+1624,1218,complete,1,سكني
+1625,1218,not-used,NULL,غير محدد
+1626,1218,not-used,NULL,غير محدد
+1627,1218,not-used,NULL,غير محدد
+1628,1199,complete,10,صحي
+1629,1199,complete,1,سكني
+1630,1199,not-used,NULL,غير محدد
+1631,1199,complete,1,سكني
+1632,935,complete,6,استخدامات اخرى
+1633,858,complete,1,سكني
+1634,858,complete,1,سكني
+1635,858,not-used,NULL,غير محدد
+1636,1633,complete,1,سكني
+1637,1633,complete,1,سكني
+1638,1137,not-used,NULL,غير محدد
+1639,1137,not-used,NULL,غير محدد
+1640,1137,not-used,NULL,غير محدد
+1641,1137,complete,1,سكني
+1642,1137,not-used,NULL,غير محدد
+1643,1137,not-used,NULL,غير محدد
+1644,1966,not-used,NULL,غير محدد
+1645,1966,not-used,NULL,غير محدد
+1646,634,not-used,NULL,غير محدد
+1647,639,not-used,NULL,غير محدد
+1648,639,not-used,NULL,غير محدد
+1649,660,not-used,NULL,غير محدد
+1650,658,complete,1,سكني
+1651,661,not-used,NULL,غير محدد
+1653,267,complete,3,تجاري
+1654,1967,complete,3,تجاري
+1655,1968,complete,3,تجاري
+1656,1142,complete,6,استخدامات اخرى
+1657,1142,complete,1,سكني
+1658,1142,complete,6,استخدامات اخرى
+1659,1142,complete,1,سكني
+1660,1142,complete,1,سكني
+1661,1169,not-used,NULL,غير محدد
+1662,1169,complete,1,سكني
+1663,1169,complete,1,سكني
+1664,1169,complete,1,سكني
+1665,1169,complete,1,سكني
+1666,1681,complete,1,سكني
+1667,1681,complete,6,استخدامات اخرى
+1668,1681,not-used,NULL,غير محدد
+1669,1681,not-used,NULL,غير محدد
+1670,1179,complete,1,سكني
+1671,1179,complete,6,استخدامات اخرى
+1672,1179,complete,6,استخدامات اخرى
+1673,1179,complete,6,استخدامات اخرى
+1674,1179,not-used,NULL,غير محدد
+1675,1244,complete,1,سكني
+1676,1244,complete,1,سكني
+1677,1244,complete,6,استخدامات اخرى
+1682,1029,complete,1,سكني
+1683,1029,complete,1,سكني
+1684,1071,complete,3,تجاري
+1685,822,complete,1,سكني
+1686,822,complete,6,استخدامات اخرى
+1687,822,complete,1,سكني
+1688,818,complete,1,سكني
+1689,818,complete,1,سكني
+1690,1246,not-used,NULL,غير محدد
+1691,1246,not-used,NULL,غير محدد
+1692,1246,complete,1,سكني
+1693,1246,complete,1,سكني
+1694,1246,complete,1,سكني
+1695,1246,complete,1,سكني
+1696,1246,complete,1,سكني
+1697,1009,not-used,NULL,غير محدد
+1698,1009,complete,1,سكني
+1699,1009,complete,1,سكني
+1700,1009,complete,1,سكني
+1701,1009,not-used,NULL,غير محدد
+1702,1009,complete,1,سكني
+1703,1721,complete,6,استخدامات اخرى
+1704,1721,not-used,NULL,غير محدد
+1705,926,complete,1,سكني
+1706,926,complete,1,سكني
+1707,926,complete,1,سكني
+1708,926,complete,1,سكني
+1709,903,complete,1,سكني
+1710,903,complete,1,سكني
+1711,903,not-used,NULL,غير محدد
+1715,977,not-used,NULL,غير محدد
+1716,977,complete,1,سكني
+1717,914,complete,6,استخدامات اخرى
+1718,914,complete,6,استخدامات اخرى
+1719,914,complete,6,استخدامات اخرى
+1720,914,complete,1,سكني
+1721,1022,complete,1,سكني
+1722,1022,not-used,NULL,غير محدد
+1723,1007,complete,1,سكني
+1724,1007,not-used,NULL,غير محدد
+1725,1007,complete,1,سكني
+1726,1007,complete,1,سكني
+1727,1007,complete,1,سكني
+1728,1038,complete,1,سكني
+1729,1038,complete,3,تجاري
+1730,1038,complete,3,تجاري
+1731,960,complete,1,سكني
+1732,960,not-used,NULL,غير محدد
+1733,925,complete,1,سكني
+1734,929,complete,1,سكني
+1735,929,complete,1,سكني
+1736,929,complete,1,سكني
+1737,929,not-used,NULL,غير محدد
+1738,1188,complete,10,صحي
+1739,1188,complete,1,سكني
+1740,1188,complete,1,سكني
+1741,1188,complete,1,سكني
+1742,1190,complete,10,صحي
+1743,1190,complete,1,سكني
+1744,2446,complete,1,سكني
+1745,2446,complete,1,سكني
+1746,2446,complete,1,سكني
+1747,1969,complete,3,تجاري
+1748,1969,complete,3,تجاري
+1749,1969,complete,1,سكني
+1750,1969,not-used,NULL,غير محدد
+1751,1969,complete,1,سكني
+1752,1971,complete,3,تجاري
+1753,1971,complete,3,تجاري
+1754,1971,complete,3,تجاري
+1755,765,not-used,NULL,غير محدد
+1756,765,complete,3,تجاري
+1757,765,complete,1,سكني
+1758,765,complete,1,سكني
+1759,765,complete,1,سكني
+1760,765,not-used,NULL,غير محدد
+1761,1632,complete,1,سكني
+1762,1632,complete,1,سكني
+1763,768,complete,1,سكني
+1764,966,complete,1,سكني
+1765,966,not-used,NULL,غير محدد
+1766,1629,not-used,NULL,غير محدد
+1767,1629,not-used,NULL,غير محدد
+1768,1629,not-used,NULL,غير محدد
+1769,980,complete,1,سكني
+1770,980,complete,3,تجاري
+1771,982,complete,3,تجاري
+1772,1631,not-used,NULL,غير محدد
+1773,870,complete,4,صناعي
+1774,870,complete,1,سكني
+1775,1632,complete,1,سكني
+1776,1632,complete,1,سكني
+1777,1593,complete,1,سكني
+1778,1787,complete,1,سكني
+1779,1787,not-used,NULL,غير محدد
+1780,1787,not-used,NULL,غير محدد
+1781,1787,complete,1,سكني
+1782,1025,complete,1,سكني
+1783,1025,complete,1,سكني
+1784,1025,not-used,NULL,غير محدد
+1785,1025,not-used,NULL,غير محدد
+1786,1165,complete,1,سكني
+1787,1165,not-used,NULL,غير محدد
+1788,1091,complete,1,سكني
+1789,1091,complete,3,تجاري
+1790,1091,not-used,NULL,غير محدد
+1791,1091,not-used,NULL,غير محدد
+1792,1091,complete,1,سكني
+1793,1091,complete,1,سكني
+1794,862,complete,1,سكني
+1795,862,not-used,NULL,غير محدد
+1796,862,not-used,NULL,غير محدد
+1797,1722,complete,6,استخدامات اخرى
+1798,1974,complete,3,تجاري
+1799,1974,not-used,NULL,غير محدد
+1800,894,complete,1,سكني
+1801,894,not-used,NULL,غير محدد
+1802,1975,complete,1,سكني
+1803,1975,complete,1,سكني
+1804,907,complete,1,سكني
+1805,907,not-used,NULL,غير محدد
+1806,1976,complete,1,سكني
+1807,1976,not-used,NULL,غير محدد
+1808,1973,complete,1,سكني
+1809,938,complete,1,سكني
+1810,938,complete,1,سكني
+1811,880,complete,1,سكني
+1812,880,complete,1,سكني
+1813,880,complete,1,سكني
+1814,933,complete,1,سكني
+1815,1001,complete,1,سكني
+1816,1001,complete,1,سكني
+1817,1977,complete,6,استخدامات اخرى
+1818,1977,complete,1,سكني
+1819,1977,complete,1,سكني
+1820,1230,complete,6,استخدامات اخرى
+1821,1230,complete,3,تجاري
+1822,1230,complete,6,استخدامات اخرى
+1823,1230,complete,1,سكني
+1824,727,complete,4,صناعي
+1825,727,complete,6,استخدامات اخرى
+1826,727,complete,4,صناعي
+1827,727,complete,1,سكني
+1828,727,complete,6,استخدامات اخرى
+1829,1972,complete,3,تجاري
+1830,1972,complete,3,تجاري
+1831,1972,complete,3,تجاري
+1832,1972,complete,1,سكني
+1833,1972,complete,1,سكني
+1834,809,complete,1,سكني
+1835,809,not-used,NULL,غير محدد
+1836,809,not-used,NULL,غير محدد
+1837,1729,complete,6,استخدامات اخرى
+1838,1978,complete,3,تجاري
+1839,1978,complete,3,تجاري
+1840,1978,not-used,NULL,غير محدد
+1841,1978,not-used,NULL,غير محدد
+1842,1214,complete,1,سكني
+1843,1214,not-used,NULL,غير محدد
+1844,1151,complete,1,سكني
+1845,1151,complete,1,سكني
+1846,1186,complete,1,سكني
+1847,812,complete,1,سكني
+1848,812,complete,4,صناعي
+1849,812,not-used,NULL,غير محدد
+1850,812,not-used,NULL,غير محدد
+1851,812,not-used,NULL,غير محدد
+1852,1196,complete,1,سكني
+1853,1196,complete,1,سكني
+1854,1196,complete,1,سكني
+1855,1196,complete,1,سكني
+1856,754,complete,1,سكني
+1857,754,complete,1,سكني
+1858,754,complete,1,سكني
+1861,784,complete,1,سكني
+1862,784,not-used,NULL,غير محدد
+1863,784,complete,1,سكني
+1864,759,complete,1,سكني
+1865,759,complete,6,استخدامات اخرى
+1866,759,complete,1,سكني
+1867,759,complete,1,سكني
+1868,759,not-used,NULL,غير محدد
+1869,1980,complete,3,تجاري
+1870,1981,complete,3,تجاري
+1871,1981,complete,3,تجاري
+1872,360,complete,3,تجاري
+1873,1158,complete,3,تجاري
+1874,1158,complete,3,تجاري
+1875,1158,complete,3,تجاري
+1876,1158,complete,3,تجاري
+1877,1158,complete,3,تجاري
+1878,1158,not-used,NULL,غير محدد
+1879,1158,not-used,NULL,غير محدد
+1880,1630,complete,1,سكني
+1881,1630,not-used,NULL,غير محدد
+1882,1982,complete,3,تجاري
+1883,1982,not-used,NULL,غير محدد
+1884,1982,complete,3,تجاري
+1885,1982,not-used,NULL,غير محدد
+1886,1982,complete,3,تجاري
+1887,1982,complete,3,تجاري
+1888,1982,complete,3,تجاري
+1889,1982,not-used,NULL,غير محدد
+1890,1982,not-used,NULL,غير محدد
+1891,1982,complete,3,تجاري
+1892,1982,complete,1,سكني
+1893,993,complete,1,سكني
+1894,993,not-used,NULL,غير محدد
+1895,993,not-used,NULL,غير محدد
+1896,993,complete,NULL,غير محدد
+1897,990,complete,1,سكني
+1898,990,complete,1,سكني
+1899,853,complete,1,سكني
+1900,853,complete,1,سكني
+1901,853,complete,1,سكني
+1902,853,complete,1,سكني
+1903,775,not-used,NULL,غير محدد
+1904,1223,complete,7,مدني
+1905,1223,complete,10,صحي
+1906,1223,complete,3,تجاري
+1907,1223,complete,3,تجاري
+1908,1223,complete,1,سكني
+1909,1223,not-used,NULL,غير محدد
+1910,1223,complete,1,سكني
+1911,1223,not-used,NULL,غير محدد
+1912,1223,complete,1,سكني
+1913,1223,complete,1,سكني
+1914,1223,complete,1,سكني
+1915,1223,complete,1,سكني
+1916,1223,complete,1,سكني
+1917,1223,complete,1,سكني
+1918,1223,complete,1,سكني
+1919,1223,complete,1,سكني
+1920,1175,complete,6,استخدامات اخرى
+1921,1175,complete,1,سكني
+1922,1175,complete,1,سكني
+1923,1309,complete,1,سكني
+1924,1309,complete,1,سكني
+1925,1673,complete,6,استخدامات اخرى
+1926,1309,not-used,NULL,غير محدد
+1927,1670,complete,1,سكني
+1928,1670,complete,1,سكني
+1929,1670,not-used,NULL,غير محدد
+1930,1312,complete,1,سكني
+1931,1312,complete,1,سكني
+1932,1672,complete,6,استخدامات اخرى
+1933,1384,complete,1,سكني
+1934,1671,complete,1,سكني
+1935,1671,complete,6,استخدامات اخرى
+1936,1338,complete,1,سكني
+1937,1338,complete,6,استخدامات اخرى
+1938,1338,complete,1,سكني
+1939,1342,complete,1,سكني
+1940,1342,complete,1,سكني
+1941,1342,complete,1,سكني
+1942,1769,complete,6,استخدامات اخرى
+1944,1769,complete,1,سكني
+1945,1769,complete,1,سكني
+1946,725,complete,1,سكني
+1947,725,complete,1,سكني
+1948,725,not-used,NULL,غير محدد
+1949,1983,complete,6,استخدامات اخرى
+1950,1983,complete,6,استخدامات اخرى
+1951,1241,not-used,NULL,غير محدد
+1952,1309,complete,1,سكني
+1953,1309,complete,1,سكني
+1954,1278,complete,1,سكني
+1955,1278,not-used,NULL,غير محدد
+1956,1278,complete,1,سكني
+1957,1278,complete,1,سكني
+1958,1637,complete,1,سكني
+1959,1637,complete,1,سكني
+1960,1637,not-used,NULL,غير محدد
+1961,859,complete,1,سكني
+1962,859,complete,1,سكني
+1963,859,complete,1,سكني
+1964,859,complete,1,سكني
+1965,983,complete,1,سكني
+1966,1638,not-used,NULL,غير محدد
+1967,1640,not-used,NULL,غير محدد
+1968,938,not-used,NULL,غير محدد
+1969,1185,complete,1,سكني
+1970,1185,complete,1,سكني
+1971,1185,not-used,NULL,غير محدد
+1972,1185,complete,1,سكني
+1973,1185,complete,1,سكني
+1974,1090,complete,10,صحي
+1975,1090,complete,3,تجاري
+1976,1090,complete,3,تجاري
+1977,1090,complete,1,سكني
+1978,1090,not-used,NULL,غير محدد
+1979,1090,complete,1,سكني
+1980,1176,complete,3,تجاري
+1981,1176,complete,1,سكني
+1982,1176,complete,1,سكني
+1983,1316,complete,1,سكني
+1984,1316,complete,1,سكني
+1985,967,complete,1,سكني
+1986,967,complete,1,سكني
+1987,967,not-used,NULL,غير محدد
+1988,1198,complete,6,استخدامات اخرى
+1989,1198,complete,1,سكني
+1990,1198,complete,6,استخدامات اخرى
+1991,899,complete,1,سكني
+1992,899,complete,1,سكني
+1993,899,not-used,NULL,غير محدد
+1994,899,not-used,NULL,غير محدد
+1995,957,complete,1,سكني
+1996,957,complete,1,سكني
+1997,838,complete,1,سكني
+1998,838,complete,1,سكني
+1999,838,complete,1,سكني
+2000,838,complete,1,سكني
+2001,1325,complete,6,استخدامات اخرى
+2002,1325,complete,1,سكني
+2003,1325,complete,1,سكني
+2004,820,complete,1,سكني
+2005,820,complete,1,سكني
+2006,820,complete,1,سكني
+2007,820,complete,1,سكني
+2012,1988,complete,6,استخدامات اخرى
+2013,1988,complete,3,تجاري
+2014,1988,complete,6,استخدامات اخرى
+2015,1204,not-used,NULL,غير محدد
+2016,1204,complete,3,تجاري
+2017,1204,complete,6,استخدامات اخرى
+2018,1204,complete,1,سكني
+2019,1204,not-used,NULL,غير محدد
+2020,1204,not-used,NULL,غير محدد
+2021,1204,not-used,NULL,غير محدد
+2022,1676,complete,3,تجاري
+2023,1676,complete,1,سكني
+2024,1676,complete,3,تجاري
+2025,1676,complete,10,صحي
+2026,1676,complete,1,سكني
+2027,1676,not-used,NULL,غير محدد
+2028,1676,not-used,NULL,غير محدد
+2029,865,complete,1,سكني
+2030,865,complete,1,سكني
+2031,865,complete,1,سكني
+2032,793,complete,3,تجاري
+2033,793,complete,1,سكني
+2034,793,complete,1,سكني
+2035,645,complete,1,سكني
+2036,645,complete,1,سكني
+2037,1989,complete,3,تجاري
+2038,1989,complete,6,استخدامات اخرى
+2039,1989,complete,1,سكني
+2040,1989,complete,1,سكني
+2041,1989,complete,1,سكني
+2042,835,complete,6,استخدامات اخرى
+2043,835,complete,6,استخدامات اخرى
+2044,835,complete,1,سكني
+2045,1573,complete,6,استخدامات اخرى
+2046,835,complete,1,سكني
+2047,835,complete,1,سكني
+2048,789,not-used,NULL,غير محدد
+2049,789,not-used,NULL,غير محدد
+2050,789,complete,3,تجاري
+2051,789,complete,6,استخدامات اخرى
+2052,789,complete,3,تجاري
+2053,789,not-used,NULL,غير محدد
+2054,791,complete,1,سكني
+2055,837,not-used,NULL,غير محدد
+2056,1318,complete,1,سكني
+2057,1318,complete,6,استخدامات اخرى
+2058,1318,complete,10,صحي
+2059,1318,complete,3,تجاري
+2060,1318,complete,3,تجاري
+2061,1318,complete,1,سكني
+2062,936,complete,1,سكني
+2063,936,complete,1,سكني
+2064,936,not-used,NULL,غير محدد
+2065,936,complete,1,سكني
+2066,936,complete,1,سكني
+2067,741,complete,10,صحي
+2068,741,complete,10,صحي
+2069,888,complete,1,سكني
+2070,888,complete,1,سكني
+2071,888,not-used,NULL,غير محدد
+2072,888,not-used,NULL,غير محدد
+2073,904,complete,1,سكني
+2074,904,complete,1,سكني
+2075,904,complete,1,سكني
+2076,1991,complete,6,استخدامات اخرى
+2077,1728,complete,3,تجاري
+2078,1052,complete,3,تجاري
+2079,1052,complete,3,تجاري
+2080,1052,complete,1,سكني
+2081,1052,not-used,NULL,غير محدد
+2083,1333,complete,1,سكني
+2084,1333,complete,1,سكني
+2085,1333,complete,1,سكني
+2086,1206,complete,1,سكني
+2087,1206,complete,6,استخدامات اخرى
+2088,1063,complete,1,سكني
+2089,1063,not-used,NULL,غير محدد
+2090,1063,complete,1,سكني
+2091,1063,complete,1,سكني
+2092,1063,not-used,NULL,غير محدد
+2093,1319,complete,6,استخدامات اخرى
+2094,1319,complete,1,سكني
+2095,1319,complete,6,استخدامات اخرى
+2096,1319,complete,1,سكني
+2097,1319,complete,1,سكني
+2098,1319,complete,1,سكني
+2099,1319,complete,1,سكني
+2100,1329,complete,1,سكني
+2101,1329,complete,6,استخدامات اخرى
+2102,1329,complete,1,سكني
+2103,1329,complete,1,سكني
+2104,1329,not-used,NULL,غير محدد
+2105,1108,complete,1,سكني
+2106,1108,complete,6,استخدامات اخرى
+2107,1235,complete,1,سكني
+2108,1235,complete,1,سكني
+2109,1581,not-used,NULL,غير محدد
+2110,1167,complete,1,سكني
+2111,1205,not-used,NULL,غير محدد
+2112,1205,complete,1,سكني
+2113,1582,not-used,NULL,غير محدد
+2114,1992,not-used,NULL,غير محدد
+2115,1993,complete,1,سكني
+2116,1579,complete,6,استخدامات اخرى
+2117,1579,complete,1,سكني
+2118,1994,not-used,NULL,غير محدد
+2119,1994,not-used,NULL,غير محدد
+2120,1994,not-used,NULL,غير محدد
+2121,752,not-used,NULL,غير محدد
+2122,1995,complete,6,استخدامات اخرى
+2123,1995,complete,1,سكني
+2124,1995,complete,1,سكني
+2125,1995,not-used,NULL,غير محدد
+2126,1995,not-used,NULL,غير محدد
+2127,1995,not-used,NULL,غير محدد
+2128,1995,not-used,NULL,غير محدد
+2129,1995,not-used,NULL,غير محدد
+2130,1995,not-used,NULL,غير محدد
+2131,1577,complete,6,استخدامات اخرى
+2132,1577,complete,1,سكني
+2133,1577,complete,6,استخدامات اخرى
+2134,1578,not-used,NULL,غير محدد
+2135,1578,complete,1,سكني
+2136,1243,complete,1,سكني
+2137,1243,not-used,NULL,غير محدد
+2138,1243,not-used,NULL,غير محدد
+2139,1583,complete,3,تجاري
+2140,1583,not-used,NULL,غير محدد
+2141,1237,complete,1,سكني
+2142,1237,complete,1,سكني
+2143,1237,complete,1,سكني
+2144,1296,complete,6,استخدامات اخرى
+2145,1543,not-used,NULL,غير محدد
+2146,1543,complete,1,سكني
+2151,1719,complete,5,سياحي
+2154,1366,complete,1,سكني
+2155,1366,complete,1,سكني
+2156,1366,complete,1,سكني
+2157,1366,not-used,NULL,غير محدد
+2158,1109,complete,1,سكني
+2159,1109,complete,1,سكني
+2160,1109,complete,1,سكني
+2161,1109,complete,1,سكني
+2162,1071,complete,3,تجاري
+2163,1071,complete,3,تجاري
+2164,1071,complete,1,سكني
+2165,1071,not-used,NULL,غير محدد
+2166,1857,not-used,NULL,غير محدد
+2167,1857,not-used,NULL,غير محدد
+2168,1857,not-used,NULL,غير محدد
+2169,2046,not-used,NULL,غير محدد
+2170,1639,not-used,NULL,غير محدد
+2171,1748,complete,1,سكني
+2172,1748,complete,1,سكني
+2173,1375,complete,6,استخدامات اخرى
+2174,1375,complete,6,استخدامات اخرى
+2175,1375,not-used,NULL,غير محدد
+2176,1375,complete,1,سكني
+2177,1375,complete,1,سكني
+2178,1683,complete,6,استخدامات اخرى
+2179,1245,complete,1,سكني
+2180,1245,complete,3,تجاري
+2181,1245,complete,1,سكني
+2182,1293,complete,1,سكني
+2183,1684,not-used,NULL,غير محدد
+2184,1773,complete,1,سكني
+2185,1773,not-used,NULL,غير محدد
+2186,1773,not-used,NULL,غير محدد
+2187,1773,not-used,NULL,غير محدد
+2188,1774,complete,NULL,غير محدد
+2189,1774,complete,1,سكني
+2190,1774,complete,1,سكني
+2191,1374,complete,1,سكني
+2192,1374,complete,1,سكني
+2193,1374,complete,1,سكني
+2194,1374,complete,1,سكني
+2195,1374,complete,1,سكني
+2196,1374,complete,1,سكني
+2197,1679,not-used,NULL,غير محدد
+2198,1357,complete,1,سكني
+2199,1357,not-used,NULL,غير محدد
+2200,1357,complete,6,استخدامات اخرى
+2201,1170,complete,1,سكني
+2202,1170,complete,1,سكني
+2203,1170,complete,1,سكني
+2204,1813,not-used,NULL,غير محدد
+2205,1813,not-used,NULL,غير محدد
+2206,1352,not-used,NULL,غير محدد
+2207,1352,not-used,NULL,غير محدد
+2208,1352,not-used,NULL,غير محدد
+2209,1352,not-used,NULL,غير محدد
+2210,1352,complete,1,سكني
+2211,1680,complete,1,سكني
+2212,1679,complete,1,سكني
+2214,1679,complete,3,تجاري
+2216,1032,complete,1,سكني
+2217,1032,complete,1,سكني
+2218,1032,complete,1,سكني
+2219,1042,complete,1,سكني
+2220,1042,complete,1,سكني
+2221,1042,not-used,NULL,غير محدد
+2222,1172,not-used,NULL,غير محدد
+2223,1172,complete,1,سكني
+2224,1172,not-used,NULL,غير محدد
+2225,1172,complete,1,سكني
+2226,1172,complete,1,سكني
+2227,1685,complete,1,سكني
+2228,1708,not-used,NULL,غير محدد
+2230,1707,complete,1,سكني
+2231,1290,not-used,NULL,غير محدد
+2232,2047,complete,3,تجاري
+2233,2047,not-used,NULL,غير محدد
+2234,1358,complete,3,تجاري
+2235,1358,complete,1,سكني
+2236,1113,not-used,NULL,غير محدد
+2237,1113,complete,1,سكني
+2238,1113,complete,1,سكني
+2239,1113,complete,3,تجاري
+2240,1113,complete,3,تجاري
+2241,1215,not-used,NULL,غير محدد
+2242,1811,complete,6,استخدامات اخرى
+2243,1677,not-used,NULL,غير محدد
+2244,1677,not-used,NULL,غير محدد
+2245,1677,not-used,NULL,غير محدد
+2246,1277,complete,3,تجاري
+2247,1097,complete,1,سكني
+2248,1097,complete,1,سكني
+2249,1336,not-used,NULL,غير محدد
+2250,1657,complete,1,سكني
+2251,1657,complete,1,سكني
+2252,1657,not-used,NULL,غير محدد
+2253,1657,not-used,NULL,غير محدد
+2254,1657,complete,3,تجاري
+2255,1657,complete,1,سكني
+2256,1173,complete,1,سكني
+2257,1141,not-used,NULL,غير محدد
+2258,1141,not-used,NULL,غير محدد
+2259,1141,not-used,NULL,غير محدد
+2260,1141,not-used,NULL,غير محدد
+2261,1141,complete,1,سكني
+2262,1141,complete,1,سكني
+2263,2048,complete,3,تجاري
+2264,1168,complete,1,سكني
+2265,1168,not-used,NULL,غير محدد
+2266,1168,complete,1,سكني
+2267,1287,complete,1,سكني
+2268,1287,not-used,NULL,غير محدد
+2269,1287,complete,1,سكني
+2270,1808,complete,6,استخدامات اخرى
+2271,1355,complete,6,استخدامات اخرى
+2273,1694,complete,1,سكني
+2274,1694,not-used,NULL,غير محدد
+2275,1101,not-used,NULL,غير محدد
+2276,1101,not-used,NULL,غير محدد
+2277,1354,complete,1,سكني
+2278,1354,complete,1,سكني
+2279,1354,not-used,NULL,غير محدد
+2280,1035,complete,1,سكني
+2281,1035,not-used,NULL,غير محدد
+2282,1695,not-used,NULL,غير محدد
+2283,1369,complete,1,سكني
+2284,1369,complete,1,سكني
+2287,1701,complete,1,سكني
+2288,1701,complete,1,سكني
+2289,2049,not-used,NULL,غير محدد
+2290,2051,complete,6,استخدامات اخرى
+2291,2052,not-used,NULL,غير محدد
+2292,2052,not-used,NULL,غير محدد
+2293,2052,not-used,NULL,غير محدد
+2294,2052,not-used,NULL,غير محدد
+2295,1704,not-used,NULL,غير محدد
+2296,1703,not-used,NULL,غير محدد
+2297,287,complete,1,سكني
+2298,1031,complete,6,استخدامات اخرى
+2299,1031,complete,1,سكني
+2302,1652,complete,1,سكني
+2303,1652,complete,1,سكني
+2304,238,complete,1,سكني
+2305,238,complete,1,سكني
+2306,1331,complete,3,تجاري
+2307,1331,complete,6,استخدامات اخرى
+2308,1331,complete,1,سكني
+2309,1157,not-used,NULL,غير محدد
+2310,1157,not-used,NULL,غير محدد
+2311,1157,complete,1,سكني
+2312,1827,not-used,NULL,غير محدد
+2313,1111,not-used,NULL,غير محدد
+2314,1356,not-used,NULL,غير محدد
+2315,1356,complete,1,سكني
+2316,1700,complete,3,تجاري
+2317,1699,complete,3,تجاري
+2318,1041,complete,3,تجاري
+2319,1687,not-used,NULL,غير محدد
+2320,1148,complete,6,استخدامات اخرى
+2321,1148,complete,6,استخدامات اخرى
+2322,1148,complete,1,سكني
+2323,1148,complete,1,سكني
+2324,1148,complete,1,سكني
+2325,2053,complete,6,استخدامات اخرى
+2326,1294,complete,6,استخدامات اخرى
+2327,1288,complete,6,استخدامات اخرى
+2328,1686,complete,6,استخدامات اخرى
+2329,1282,complete,6,استخدامات اخرى
+2330,2054,complete,6,استخدامات اخرى
+2331,2054,complete,6,استخدامات اخرى
+2332,1217,complete,1,سكني
+2333,1217,complete,1,سكني
+2334,1217,complete,1,سكني
+2335,1217,complete,1,سكني
+2336,1217,not-used,NULL,غير محدد
+2337,1706,not-used,NULL,غير محدد
+2338,1706,not-used,NULL,غير محدد
+2339,2055,not-used,NULL,غير محدد
+2340,2055,not-used,NULL,غير محدد
+2341,2055,not-used,NULL,غير محدد
+2342,2055,not-used,NULL,غير محدد
+2343,2055,not-used,NULL,غير محدد
+2344,2055,not-used,NULL,غير محدد
+2345,294,complete,6,استخدامات اخرى
+2346,1705,complete,1,سكني
+2347,1341,complete,1,سكني
+2348,1341,complete,1,سكني
+2349,1341,complete,1,سكني
+2350,1341,complete,1,سكني
+2351,1341,not-used,NULL,غير محدد
+2352,1341,complete,1,سكني
+2353,1341,complete,1,سكني
+2354,1340,not-used,NULL,غير محدد
+2355,1340,complete,1,سكني
+2356,1340,complete,1,سكني
+2357,1668,not-used,NULL,غير محدد
+2358,1668,not-used,NULL,غير محدد
+2359,1668,not-used,NULL,غير محدد
+2360,1668,not-used,NULL,غير محدد
+2361,1668,not-used,NULL,غير محدد
+2362,1668,complete,1,سكني
+2363,1668,not-used,NULL,غير محدد
+2364,1668,not-used,NULL,غير محدد
+2365,1668,complete,1,سكني
+2366,1668,not-used,NULL,غير محدد
+2367,1668,not-used,NULL,غير محدد
+2368,1668,not-used,NULL,غير محدد
+2369,2108,complete,1,سكني
+2370,2108,complete,1,سكني
+2371,2108,complete,1,سكني
+2378,1771,complete,6,استخدامات اخرى
+2379,1771,not-used,NULL,غير محدد
+2380,1771,complete,1,سكني
+2381,2121,complete,1,سكني
+2382,2121,complete,6,استخدامات اخرى
+2383,2121,complete,1,سكني
+2384,2121,complete,1,سكني
+2385,1178,complete,1,سكني
+2386,1178,complete,3,تجاري
+2387,1178,complete,1,سكني
+2388,1178,not-used,NULL,غير محدد
+2389,1334,complete,1,سكني
+2390,1334,not-used,NULL,غير محدد
+2391,1334,not-used,NULL,غير محدد
+2392,1334,not-used,NULL,غير محدد
+2393,1334,complete,1,سكني
+2394,2103,complete,1,سكني
+2395,2105,not-used,NULL,غير محدد
+2396,2104,not-used,NULL,غير محدد
+2397,2104,not-used,NULL,غير محدد
+2398,2104,not-used,NULL,غير محدد
+2399,2107,complete,1,سكني
+2400,726,complete,1,سكني
+2401,2106,not-used,NULL,غير محدد
+2402,2106,not-used,NULL,غير محدد
+2403,1665,complete,1,سكني
+2406,2157,complete,3,تجاري
+2407,2157,complete,1,سكني
+2408,2157,complete,1,سكني
+2409,2157,complete,1,سكني
+2410,2157,complete,1,سكني
+2411,2157,complete,1,سكني
+2412,2125,complete,6,استخدامات اخرى
+2413,1365,complete,1,سكني
+2414,1365,complete,1,سكني
+2415,1365,complete,1,سكني
+2416,1365,not-used,1,سكني
+2417,1365,complete,1,سكني
+2418,1303,complete,1,سكني
+2419,1303,complete,1,سكني
+2420,1303,complete,1,سكني
+2421,1303,complete,1,سكني
+2422,1208,complete,1,سكني
+2423,1208,complete,1,سكني
+2424,1208,complete,1,سكني
+2425,2124,complete,6,استخدامات اخرى
+2426,2110,complete,6,استخدامات اخرى
+2427,2109,not-used,1,سكني
+2428,2109,complete,1,سكني
+2429,2171,complete,1,سكني
+2430,1062,complete,1,سكني
+2431,1062,complete,1,سكني
+2432,1236,complete,6,استخدامات اخرى
+2433,1236,complete,1,سكني
+2434,1236,not-used,NULL,غير محدد
+2435,1066,complete,1,سكني
+2436,1066,complete,1,سكني
+2437,1066,complete,1,سكني
+2438,1066,complete,1,سكني
+2439,1066,complete,1,سكني
+2440,1066,complete,1,سكني
+2441,1066,complete,1,سكني
+2442,1302,complete,1,سكني
+2443,1302,complete,1,سكني
+2444,1302,not-used,NULL,غير محدد
+2446,1302,complete,1,سكني
+2447,1302,complete,1,سكني
+2448,1051,complete,1,سكني
+2449,1051,complete,1,سكني
+2450,1298,complete,1,سكني
+2452,1326,complete,1,سكني
+2453,1180,complete,1,سكني
+2454,1180,complete,1,سكني
+2455,1180,complete,1,سكني
+2456,1180,complete,1,سكني
+2457,2128,complete,1,سكني
+2458,2128,complete,1,سكني
+2459,2128,complete,1,سكني
+2460,2126,complete,1,سكني
+2461,2126,complete,1,سكني
+2462,1826,complete,6,استخدامات اخرى
+2463,1323,not-used,NULL,غير محدد
+2464,1323,complete,1,سكني
+2465,1323,complete,1,سكني
+2466,1359,complete,6,استخدامات اخرى
+2467,1359,complete,1,سكني
+2468,1371,complete,1,سكني
+2469,1371,complete,1,سكني
+2470,1371,not-used,NULL,غير محدد
+2471,1324,complete,1,سكني
+2472,1324,complete,1,سكني
+2473,1324,complete,1,سكني
+2474,1279,complete,1,سكني
+2475,1279,not-used,NULL,غير محدد
+2476,1140,complete,1,سكني
+2477,1140,complete,6,استخدامات اخرى
+2478,1140,complete,6,استخدامات اخرى
+2479,1140,complete,6,استخدامات اخرى
+2484,1100,not-used,NULL,غير محدد
+2485,1100,complete,1,سكني
+2486,1100,not-used,NULL,غير محدد
+2487,2111,complete,6,استخدامات اخرى
+2488,2111,complete,1,سكني
+2489,2111,complete,1,سكني
+2490,2111,complete,1,سكني
+2491,1171,not-used,1,سكني
+2492,1171,complete,6,استخدامات اخرى
+2493,1171,complete,1,سكني
+2494,1353,complete,6,استخدامات اخرى
+2495,1353,complete,1,سكني
+2496,1353,complete,1,سكني
+2497,1353,complete,1,سكني
+2498,1351,complete,1,سكني
+2499,1351,complete,1,سكني
+2500,1351,not-used,NULL,غير محدد
+2501,1351,not-used,NULL,غير محدد
+2502,1285,complete,6,استخدامات اخرى
+2503,1285,complete,1,سكني
+2504,1285,complete,6,استخدامات اخرى
+2505,1283,complete,6,استخدامات اخرى
+2506,1283,complete,1,سكني
+2507,2112,complete,6,استخدامات اخرى
+2508,1283,complete,1,سكني
+2509,1174,not-used,NULL,غير محدد
+2510,1174,complete,1,سكني
+2511,1174,complete,1,سكني
+2512,2075,complete,1,سكني
+2513,2075,complete,1,سكني
+2514,1372,not-used,NULL,غير محدد
+2515,1372,not-used,NULL,غير محدد
+2516,1680,complete,6,استخدامات اخرى
+2517,1658,not-used,NULL,غير محدد
+2518,1656,not-used,NULL,غير محدد
+2519,1656,not-used,NULL,غير محدد
+2520,1656,not-used,NULL,غير محدد
+2521,1656,not-used,NULL,غير محدد
+2522,2071,complete,3,تجاري
+2523,2071,complete,3,تجاري
+2524,1656,not-used,NULL,غير محدد
+2525,2072,complete,1,سكني
+2526,2072,complete,1,سكني
+2530,1106,not-used,NULL,غير محدد
+2531,1106,not-used,NULL,غير محدد
+2532,1106,complete,1,سكني
+2533,1106,complete,1,سكني
+2534,1360,complete,1,سكني
+2535,1360,complete,1,سكني
+2536,1360,complete,6,استخدامات اخرى
+2537,2179,complete,6,استخدامات اخرى
+2538,1359,complete,1,سكني
+2539,1359,complete,1,سكني
+2540,2174,not-used,NULL,غير محدد
+2541,2175,not-used,NULL,غير محدد
+2542,1139,not-used,NULL,غير محدد
+2546,1099,not-used,NULL,غير محدد
+2549,1111,complete,1,سكني
+2550,1111,complete,1,سكني
+2551,1111,not-used,NULL,غير محدد
+2552,1111,complete,1,سكني
+2553,1111,complete,1,سكني
+2554,1053,not-used,NULL,غير محدد
+2555,2071,complete,1,سكني
+2556,1103,not-used,NULL,غير محدد
+2557,1103,not-used,NULL,غير محدد
+2558,1103,not-used,NULL,غير محدد
+2559,1103,not-used,NULL,غير محدد
+2560,1103,complete,1,سكني
+2561,1053,not-used,NULL,غير محدد
+2562,1327,complete,1,سكني
+2563,1327,complete,1,سكني
+2564,1155,not-used,NULL,غير محدد
+2565,1155,complete,1,سكني
+2566,1155,complete,1,سكني
+2567,1107,not-used,NULL,غير محدد
+2568,1107,not-used,NULL,غير محدد
+2569,1107,complete,1,سكني
+2570,1107,not-used,NULL,غير محدد
+2571,1321,complete,6,استخدامات اخرى
+2572,1321,complete,6,استخدامات اخرى
+2573,1321,complete,1,سكني
+2574,1321,complete,1,سكني
+2575,1321,complete,1,سكني
+2576,2076,not-used,NULL,غير محدد
+2577,2077,not-used,NULL,غير محدد
+2578,1361,not-used,NULL,غير محدد
+2579,1361,not-used,NULL,غير محدد
+2580,1361,complete,1,سكني
+2581,2006,complete,3,تجاري
+2582,2006,complete,3,تجاري
+2583,2006,complete,7,مدني
+2584,2006,complete,1,سكني
+2585,2098,complete,6,استخدامات اخرى
+2586,1154,not-used,NULL,غير محدد
+2587,1154,not-used,NULL,غير محدد
+2588,1364,not-used,NULL,غير محدد
+2589,1364,complete,1,سكني
+2590,1861,complete,1,سكني
+2591,1861,complete,1,سكني
+2592,1861,not-used,NULL,غير محدد
+2593,1646,not-used,NULL,غير محدد
+2594,1646,complete,1,سكني
+2595,1651,not-used,NULL,غير محدد
+2596,1651,not-used,NULL,غير محدد
+2597,2069,complete,1,سكني
+2598,2069,complete,1,سكني
+2599,2069,complete,1,سكني
+2600,2069,not-used,NULL,غير محدد
+2601,1238,complete,1,سكني
+2602,1238,complete,1,سكني
+2603,1238,not-used,NULL,غير محدد
+2604,1112,complete,1,سكني
+2605,1112,not-used,NULL,غير محدد
+2606,1065,complete,1,سكني
+2607,1065,complete,1,سكني
+2608,1065,not-used,NULL,غير محدد
+2609,1034,complete,1,سكني
+2610,1034,complete,1,سكني
+2611,1034,complete,1,سكني
+2612,1034,complete,1,سكني
+2613,1984,complete,3,تجاري
+2614,1984,complete,3,تجاري
+2615,1984,complete,3,تجاري
+2616,1984,complete,3,تجاري
+2617,1984,complete,3,تجاري
+2618,1984,complete,3,تجاري
+2619,1984,not-used,NULL,غير محدد
+2620,1984,complete,7,مدني
+2621,1984,complete,7,مدني
+2622,1984,not-used,NULL,غير محدد
+2623,2187,not-used,NULL,غير محدد
+2624,2187,not-used,NULL,غير محدد
+2625,1675,complete,1,سكني
+2626,1675,complete,1,سكني
+2627,1675,complete,1,سكني
+2628,1675,complete,1,سكني
+2629,1675,complete,1,سكني
+2630,1675,complete,1,سكني
+2631,1675,complete,1,سكني
+2632,1675,complete,1,سكني
+2633,1675,complete,1,سكني
+2634,1675,complete,1,سكني
+2635,1675,complete,1,سكني
+2636,1675,complete,1,سكني
+2637,1675,complete,1,سكني
+2638,1675,complete,1,سكني
+2639,1105,complete,1,سكني
+2640,1105,complete,1,سكني
+2641,1105,complete,1,سكني
+2642,1030,not-used,NULL,غير محدد
+2643,1030,not-used,NULL,غير محدد
+2644,1239,complete,1,سكني
+2645,1239,not-used,NULL,غير محدد
+2646,1239,not-used,NULL,غير محدد
+2647,1675,not-used,NULL,غير محدد
+2648,1675,not-used,NULL,غير محدد
+2649,1675,not-used,NULL,غير محدد
+2650,1363,complete,1,سكني
+2651,1764,not-used,NULL,غير محدد
+2653,1648,complete,1,سكني
+2654,1648,not-used,NULL,غير محدد
+2655,1648,not-used,NULL,غير محدد
+2656,1649,complete,1,سكني
+2657,1649,complete,1,سكني
+2658,2188,not-used,NULL,غير محدد
+2659,1300,complete,1,سكني
+2660,1300,complete,1,سكني
+2662,161,complete,1,سكني
+2663,161,complete,1,سكني
+2664,161,complete,6,استخدامات اخرى
+2665,2197,not-used,NULL,غير محدد
+2666,2197,not-used,NULL,غير محدد
+2667,2197,not-used,NULL,غير محدد
+2668,2197,not-used,NULL,غير محدد
+2669,2134,not-used,NULL,غير محدد
+2670,1349,complete,1,سكني
+2671,1349,complete,1,سكني
+2672,1349,complete,1,سكني
+2673,1349,not-used,NULL,غير محدد
+2674,1270,complete,1,سكني
+2675,1270,complete,1,سكني
+2676,1270,complete,1,سكني
+2677,2092,complete,6,استخدامات اخرى
+2678,1228,complete,1,سكني
+2679,1228,complete,1,سكني
+2680,1933,not-used,NULL,غير محدد
+2681,1381,not-used,NULL,غير محدد
+2682,1381,not-used,NULL,غير محدد
+2683,1381,not-used,NULL,غير محدد
+2684,1381,complete,1,سكني
+2686,1231,not-used,NULL,غير محدد
+2687,1231,not-used,NULL,غير محدد
+2688,1231,complete,10,صحي
+2689,1231,complete,1,سكني
+2690,1231,complete,1,سكني
+2691,1231,complete,6,استخدامات اخرى
+2693,1242,complete,1,سكني
+2694,1242,complete,NULL,غير محدد
+2695,1242,complete,1,سكني
+2696,1242,not-used,NULL,غير محدد
+2697,1242,not-used,NULL,غير محدد
+2698,1242,not-used,NULL,غير محدد
+2699,1242,complete,3,تجاري
+2700,1242,complete,1,سكني
+2701,1242,complete,1,سكني
+2702,1242,complete,1,سكني
+2703,1242,not-used,NULL,غير محدد
+2705,1039,complete,1,سكني
+2706,1076,complete,1,سكني
+2707,1076,complete,6,استخدامات اخرى
+2708,1076,not-used,NULL,غير محدد
+2709,1076,not-used,NULL,غير محدد
+2710,1076,complete,1,سكني
+2711,1162,complete,1,سكني
+2712,2095,complete,3,تجاري
+2713,2095,not-used,NULL,غير محدد
+2714,2085,complete,1,سكني
+2715,2085,complete,1,سكني
+2716,2085,complete,1,سكني
+2717,2085,not-used,NULL,غير محدد
+2718,2097,complete,6,استخدامات اخرى
+2719,2097,not-used,NULL,غير محدد
+2720,2097,complete,6,استخدامات اخرى
+2721,2097,complete,1,سكني
+2722,2097,complete,6,استخدامات اخرى
+2723,2086,complete,1,سكني
+2724,2086,complete,1,سكني
+2725,2086,complete,1,سكني
+2726,1379,not-used,NULL,غير محدد
+2727,1379,not-used,NULL,غير محدد
+2728,1379,complete,1,سكني
+2729,1379,complete,6,استخدامات اخرى
+2730,2088,complete,1,سكني
+2731,2087,complete,1,سكني
+2732,2087,complete,1,سكني
+2733,2087,complete,1,سكني
+2734,2099,not-used,NULL,غير محدد
+2736,2007,not-used,6,استخدامات اخرى
+2737,2007,not-used,NULL,غير محدد
+2738,846,complete,1,سكني
+2739,910,complete,1,سكني
+2740,910,complete,1,سكني
+2741,910,complete,1,سكني
+2742,995,complete,1,سكني
+2743,995,not-used,1,سكني
+2744,896,not-used,NULL,غير محدد
+2745,921,complete,1,سكني
+2746,921,not-used,NULL,غير محدد
+2747,921,complete,1,سكني
+2748,896,complete,1,سكني
+2749,896,not-used,1,سكني
+2750,896,not-used,1,سكني
+2751,872,complete,1,سكني
+2752,872,not-used,NULL,غير محدد
+2753,956,complete,1,سكني
+2754,956,not-used,NULL,غير محدد
+2755,978,complete,1,سكني
+2756,953,not-used,NULL,غير محدد
+2757,798,complete,1,سكني
+2758,798,not-used,NULL,غير محدد
+2759,798,not-used,NULL,غير محدد
+2760,798,not-used,NULL,غير محدد
+2761,816,not-used,NULL,غير محدد
+2762,816,complete,1,سكني
+2763,798,not-used,NULL,غير محدد
+2764,2060,not-used,NULL,غير محدد
+2765,2060,complete,1,سكني
+2766,2060,complete,1,سكني
+2767,1551,complete,1,سكني
+2768,1551,not-used,NULL,غير محدد
+2769,728,complete,1,سكني
+2770,728,not-used,NULL,غير محدد
+2771,857,complete,1,سكني
+2772,857,not-used,NULL,غير محدد
+2773,2220,not-used,NULL,غير محدد
+2774,2220,not-used,NULL,غير محدد
+2775,855,complete,1,سكني
+2776,855,complete,1,سكني
+2777,855,not-used,NULL,غير محدد
+2778,855,not-used,NULL,غير محدد
+2779,2221,complete,6,استخدامات اخرى
+2780,2224,not-used,NULL,غير محدد
+2781,2225,not-used,NULL,غير محدد
+2782,203,not-used,NULL,غير محدد
+2783,731,complete,1,سكني
+2784,731,complete,1,سكني
+2785,731,not-used,NULL,غير محدد
+2786,731,complete,3,تجاري
+2787,731,not-used,NULL,غير محدد
+2788,757,complete,1,سكني
+2789,757,complete,1,سكني
+2790,2226,not-used,NULL,غير محدد
+2791,772,complete,1,سكني
+2792,772,complete,1,سكني
+2793,772,complete,1,سكني
+2794,772,not-used,NULL,غير محدد
+2795,772,not-used,NULL,غير محدد
+2796,772,not-used,NULL,غير محدد
+2797,2227,not-used,NULL,غير محدد
+2798,2227,complete,6,استخدامات اخرى
+2799,825,complete,1,سكني
+2800,825,complete,1,سكني
+2801,825,complete,1,سكني
+2802,825,complete,1,سكني
+2803,1615,not-used,NULL,غير محدد
+2804,1615,not-used,NULL,غير محدد
+2805,1615,not-used,NULL,غير محدد
+2806,198,complete,6,استخدامات اخرى
+2807,2228,not-used,NULL,غير محدد
+2808,2228,not-used,NULL,غير محدد
+2809,815,complete,1,سكني
+2810,815,not-used,NULL,غير محدد
+2811,202,not-used,NULL,غير محدد
+2812,202,not-used,NULL,غير محدد
+2813,201,complete,3,تجاري
+2814,764,complete,1,سكني
+2815,764,complete,1,سكني
+2816,764,complete,6,استخدامات اخرى
+2817,764,complete,1,سكني
+2818,2229,not-used,NULL,غير محدد
+2819,2229,not-used,NULL,غير محدد
+2820,1368,complete,6,استخدامات اخرى
+2823,2160,complete,1,سكني
+2824,2160,complete,1,سكني
+2825,2160,complete,1,سكني
+2826,2160,complete,1,سكني
+2828,1645,not-used,NULL,غير محدد
+2829,1645,not-used,NULL,غير محدد
+2830,1645,not-used,NULL,غير محدد
+2831,1645,not-used,NULL,غير محدد
+2832,1127,complete,6,استخدامات اخرى
+2833,1127,not-used,NULL,غير محدد
+2834,1346,complete,1,سكني
+2835,1346,complete,1,سكني
+2836,1346,complete,1,سكني
+2837,1346,not-used,NULL,غير محدد
+2838,1275,complete,1,سكني
+2839,1275,complete,1,سكني
+2840,1275,complete,1,سكني
+2841,1072,complete,1,سكني
+2842,1072,complete,1,سكني
+2843,1072,complete,3,تجاري
+2844,1072,complete,4,صناعي
+2845,1072,not-used,NULL,غير محدد
+2846,1072,not-used,NULL,غير محدد
+2847,1072,complete,1,سكني
+2848,1072,not-used,NULL,غير محدد
+2849,2090,not-used,NULL,غير محدد
+2850,2089,complete,6,استخدامات اخرى
+2851,2089,complete,1,سكني
+2852,2061,complete,6,استخدامات اخرى
+2853,2061,complete,1,سكني
+2854,2061,complete,1,سكني
+2855,2061,complete,1,سكني
+2856,1557,complete,3,تجاري
+2857,1557,complete,1,سكني
+2858,1557,not-used,NULL,غير محدد
+2859,1557,complete,1,سكني
+2860,1557,not-used,NULL,غير محدد
+2861,1557,not-used,NULL,غير محدد
+2862,1557,not-used,NULL,غير محدد
+2863,1557,not-used,NULL,غير محدد
+2864,1557,not-used,NULL,غير محدد
+2865,1557,complete,1,سكني
+2866,1571,complete,6,استخدامات اخرى
+2867,1557,complete,3,تجاري
+2868,2063,complete,1,سكني
+2869,2063,complete,1,سكني
+2870,2063,complete,1,سكني
+2871,2063,not-used,NULL,غير محدد
+2873,2061,not-used,NULL,غير محدد
+2874,2231,complete,6,استخدامات اخرى
+2875,2231,complete,1,سكني
+2876,2231,complete,1,سكني
+2877,2231,not-used,NULL,غير محدد
+2878,2066,not-used,NULL,غير محدد
+2879,2066,complete,1,سكني
+2880,1571,complete,1,سكني
+2881,965,complete,1,سكني
+2882,965,complete,1,سكني
+2883,965,complete,1,سكني
+2884,965,complete,1,سكني
+2885,2234,not-used,NULL,غير محدد
+2886,2234,not-used,NULL,غير محدد
+2887,2234,complete,3,تجاري
+2888,2234,complete,3,تجاري
+2889,2234,complete,1,سكني
+2890,912,complete,1,سكني
+2891,912,complete,6,استخدامات اخرى
+2892,912,complete,6,استخدامات اخرى
+2893,912,complete,1,سكني
+2894,1627,not-used,NULL,غير محدد
+2895,1627,not-used,NULL,غير محدد
+2896,1627,not-used,NULL,غير محدد
+2897,1627,not-used,NULL,غير محدد
+2898,1627,not-used,NULL,غير محدد
+2899,1627,not-used,NULL,غير محدد
+2900,2232,complete,1,سكني
+2901,2232,complete,1,سكني
+2902,2232,complete,1,سكني
+2903,871,not-used,NULL,غير محدد
+2904,871,not-used,NULL,غير محدد
+2905,919,complete,1,سكني
+2906,919,complete,1,سكني
+2907,919,not-used,NULL,غير محدد
+2908,919,not-used,NULL,غير محدد
+2909,1053,not-used,NULL,غير محدد
+2910,1053,complete,3,تجاري
+2911,1053,not-used,NULL,غير محدد
+2912,1053,not-used,NULL,غير محدد
+2913,1053,not-used,NULL,غير محدد
+2914,1053,not-used,NULL,غير محدد
+2915,1305,not-used,NULL,غير محدد
+2916,1305,complete,1,سكني
+2917,1305,not-used,NULL,غير محدد
+2918,1305,not-used,NULL,غير محدد
+2919,895,not-used,NULL,غير محدد
+2920,895,complete,1,سكني
+2921,895,complete,1,سكني
+2922,895,not-used,NULL,غير محدد
+2923,931,not-used,NULL,غير محدد
+2924,931,complete,1,سكني
+2925,2237,complete,6,استخدامات اخرى
+2926,878,complete,1,سكني
+2927,878,complete,1,سكني
+2928,1818,not-used,NULL,غير محدد
+2929,1818,not-used,NULL,غير محدد
+2930,864,complete,1,سكني
+2931,2145,not-used,NULL,غير محدد
+2932,2043,not-used,NULL,غير محدد
+2933,2043,not-used,NULL,غير محدد
+2934,2043,not-used,NULL,غير محدد
+2935,743,complete,1,سكني
+2936,743,not-used,NULL,غير محدد
+2937,743,complete,1,سكني
+2938,743,complete,6,استخدامات اخرى
+2939,743,complete,6,استخدامات اخرى
+2940,961,not-used,NULL,غير محدد
+2941,961,complete,1,سكني
+2942,961,complete,1,سكني
+2943,961,complete,1,سكني
+2944,961,not-used,NULL,غير محدد
+2945,843,complete,1,سكني
+2946,843,not-used,NULL,غير محدد
+2947,843,not-used,NULL,غير محدد
+2951,840,not-used,NULL,غير محدد
+2952,840,not-used,NULL,غير محدد
+2953,975,complete,1,سكني
+2954,842,complete,6,استخدامات اخرى
+2955,842,complete,6,استخدامات اخرى
+2956,842,complete,1,سكني
+2957,842,complete,6,استخدامات اخرى
+2958,2239,not-used,NULL,غير محدد
+2959,891,complete,1,سكني
+2960,891,not-used,NULL,غير محدد
+2961,836,complete,1,سكني
+2962,836,complete,1,سكني
+2963,1996,complete,1,سكني
+2964,627,complete,1,سكني
+2965,700,complete,1,سكني
+2966,700,complete,6,استخدامات اخرى
+2967,700,not-used,NULL,غير محدد
+2968,785,not-used,NULL,غير محدد
+2969,785,not-used,NULL,غير محدد
+2971,140,not-used,NULL,غير محدد
+2972,140,not-used,NULL,غير محدد
+2973,810,complete,3,تجاري
+2974,810,not-used,NULL,غير محدد
+2975,810,not-used,NULL,غير محدد
+2976,810,not-used,NULL,غير محدد
+2977,810,not-used,NULL,غير محدد
+2978,810,not-used,NULL,غير محدد
+2979,810,not-used,NULL,غير محدد
+2980,810,not-used,NULL,غير محدد
+2981,408,complete,3,تجاري
+2982,2240,complete,3,تجاري
+2983,780,not-used,NULL,غير محدد
+2984,780,complete,10,صحي
+2985,773,not-used,NULL,غير محدد
+2986,773,not-used,NULL,غير محدد
+2987,1869,not-used,NULL,غير محدد
+2988,748,not-used,NULL,غير محدد
+2989,748,not-used,NULL,غير محدد
+2990,748,not-used,NULL,غير محدد
+2991,149,complete,1,سكني
+2992,2241,not-used,NULL,غير محدد
+2993,2241,not-used,NULL,غير محدد
+2994,2241,not-used,NULL,غير محدد
+2995,2242,not-used,NULL,غير محدد
+2996,2242,not-used,NULL,غير محدد
+2997,807,not-used,NULL,غير محدد
+2998,807,complete,6,استخدامات اخرى
+2999,1754,complete,1,سكني
+3000,1754,not-used,NULL,غير محدد
+3001,1754,not-used,NULL,غير محدد
+3002,1758,complete,3,تجاري
+3003,2243,complete,3,تجاري
+3004,2243,not-used,NULL,غير محدد
+3005,2245,not-used,NULL,غير محدد
+3006,2244,not-used,NULL,غير محدد
+3007,2247,complete,6,استخدامات اخرى
+3008,2248,not-used,NULL,غير محدد
+3009,2249,not-used,NULL,غير محدد
+3010,2249,not-used,NULL,غير محدد
+3011,2249,not-used,NULL,غير محدد
+3012,2250,not-used,NULL,غير محدد
+3013,2246,complete,6,استخدامات اخرى
+3014,1739,complete,3,تجاري
+3015,2251,complete,1,سكني
+3016,2253,complete,6,استخدامات اخرى
+3017,2255,not-used,NULL,غير محدد
+3018,1621,not-used,NULL,غير محدد
+3019,1621,complete,1,سكني
+3020,1621,complete,1,سكني
+3021,811,complete,1,سكني
+3022,811,not-used,NULL,غير محدد
+3023,2131,complete,1,سكني
+3024,2131,not-used,NULL,غير محدد
+3025,2094,complete,1,سكني
+3026,2094,not-used,NULL,غير محدد
+3027,2094,complete,1,سكني
+3028,1347,complete,1,سكني
+3029,1347,complete,1,سكني
+3030,1347,complete,1,سكني
+3031,1347,not-used,NULL,غير محدد
+3032,2094,not-used,NULL,غير محدد
+3033,1985,complete,1,سكني
+3034,1985,complete,1,سكني
+3035,1985,complete,1,سكني
+3036,1985,complete,1,سكني
+3037,851,complete,1,سكني
+3038,851,complete,1,سكني
+3039,851,complete,1,سكني
+3040,2256,not-used,NULL,غير محدد
+3041,2208,complete,3,تجاري
+3042,2208,complete,3,تجاري
+3043,2208,complete,1,سكني
+3044,2209,not-used,NULL,غير محدد
+3045,2209,not-used,NULL,غير محدد
+3046,970,complete,1,سكني
+3047,970,complete,1,سكني
+3048,970,complete,1,سكني
+3049,970,complete,1,سكني
+3050,989,complete,1,سكني
+3051,989,not-used,NULL,غير محدد
+3052,989,not-used,NULL,غير محدد
+3053,989,not-used,NULL,غير محدد
+3054,989,not-used,NULL,غير محدد
+3055,952,not-used,NULL,غير محدد
+3056,952,not-used,NULL,غير محدد
+3057,920,complete,1,سكني
+3058,920,not-used,NULL,غير محدد
+3059,920,complete,1,سكني
+3060,2064,not-used,NULL,غير محدد
+3061,2064,complete,1,سكني
+3062,2064,complete,1,سكني
+3063,962,complete,1,سكني
+3064,962,complete,1,سكني
+3065,920,not-used,NULL,غير محدد
+3066,986,complete,1,سكني
+3067,986,not-used,NULL,غير محدد
+3068,2207,complete,1,سكني
+3069,2207,not-used,NULL,غير محدد
+3070,2207,not-used,NULL,غير محدد
+3071,2207,not-used,NULL,غير محدد
+3072,1777,not-used,NULL,غير محدد
+3073,1777,not-used,NULL,غير محدد
+3074,1777,not-used,NULL,غير محدد
+3075,1777,complete,1,سكني
+3076,1777,complete,1,سكني
+3077,1777,complete,6,استخدامات اخرى
+3078,2035,not-used,NULL,غير محدد
+3079,2257,not-used,NULL,غير محدد
+3080,2038,not-used,NULL,غير محدد
+3081,2034,not-used,NULL,غير محدد
+3082,2034,not-used,NULL,غير محدد
+3083,2034,not-used,NULL,غير محدد
+3084,2135,complete,1,سكني
+3086,2258,not-used,NULL,غير محدد
+3087,2258,not-used,NULL,غير محدد
+3088,2258,not-used,NULL,غير محدد
+3089,604,not-used,NULL,غير محدد
+3090,2065,complete,1,سكني
+3091,2065,complete,1,سكني
+3092,2065,complete,1,سكني
+3093,777,complete,NULL,غير محدد
+3094,777,not-used,NULL,غير محدد
+3095,777,complete,1,سكني
+3096,777,complete,1,سكني
+3097,777,complete,1,سكني
+3098,777,complete,1,سكني
+3099,777,not-used,NULL,غير محدد
+3100,777,not-used,NULL,غير محدد
+3101,1559,not-used,NULL,غير محدد
+3102,2261,not-used,NULL,غير محدد
+3103,1561,complete,1,سكني
+3104,746,complete,1,سكني
+3105,746,complete,1,سكني
+3106,746,complete,1,سكني
+3107,746,not-used,NULL,غير محدد
+3108,939,complete,1,سكني
+3109,939,complete,1,سكني
+3110,939,complete,1,سكني
+3111,939,complete,1,سكني
+3112,939,complete,6,استخدامات اخرى
+3113,756,not-used,NULL,غير محدد
+3114,756,complete,1,سكني
+3115,738,not-used,NULL,غير محدد
+3116,738,not-used,NULL,غير محدد
+3117,738,not-used,NULL,غير محدد
+3118,738,not-used,NULL,غير محدد
+3119,738,complete,1,سكني
+3120,738,not-used,NULL,غير محدد
+3121,870,complete,4,صناعي
+3122,1634,complete,6,استخدامات اخرى
+3123,1634,complete,6,استخدامات اخرى
+3124,1635,complete,6,استخدامات اخرى
+3125,930,complete,1,سكني
+3126,863,not-used,NULL,غير محدد
+3127,863,complete,1,سكني
+3128,179,not-used,NULL,غير محدد
+3129,179,not-used,NULL,غير محدد
+3130,179,not-used,NULL,غير محدد
+3131,179,complete,NULL,غير محدد
+3132,179,not-used,NULL,غير محدد
+3134,854,not-used,NULL,غير محدد
+3135,854,complete,1,سكني
+3136,999,complete,1,سكني
+3137,999,complete,1,سكني
+3138,999,complete,1,سكني
+3139,999,complete,1,سكني
+3140,179,complete,1,سكني
+3141,179,complete,6,استخدامات اخرى
+3142,1628,not-used,NULL,غير محدد
+3143,889,complete,1,سكني
+3144,889,complete,1,سكني
+3145,1821,not-used,NULL,غير محدد
+3146,890,complete,1,سكني
+3147,890,complete,1,سكني
+3148,900,complete,1,سكني
+3149,900,not-used,NULL,غير محدد
+3150,900,complete,1,سكني
+3151,659,not-used,NULL,غير محدد
+3154,2016,complete,1,سكني
+3155,2016,complete,1,سكني
+3156,2016,complete,1,سكني
+3157,1747,complete,6,استخدامات اخرى
+3158,974,complete,1,سكني
+3159,974,complete,1,سكني
+3160,974,not-used,NULL,غير محدد
+3161,974,not-used,NULL,غير محدد
+3162,636,complete,1,سكني
+3163,636,not-used,NULL,غير محدد
+3164,636,not-used,NULL,غير محدد
+3165,636,not-used,NULL,غير محدد
+3170,2020,not-used,NULL,غير محدد
+3171,2020,not-used,NULL,غير محدد
+3172,2018,not-used,NULL,غير محدد
+3173,2018,not-used,NULL,غير محدد
+3174,2017,not-used,NULL,غير محدد
+3175,649,not-used,NULL,غير محدد
+3176,649,not-used,NULL,غير محدد
+3177,649,not-used,NULL,غير محدد
+3178,649,not-used,NULL,غير محدد
+3179,636,complete,6,استخدامات اخرى
+3180,2272,complete,1,سكني
+3181,2272,not-used,NULL,غير محدد
+3182,2272,not-used,NULL,غير محدد
+3183,2275,not-used,NULL,غير محدد
+3184,2275,not-used,NULL,غير محدد
+3185,2266,not-used,NULL,غير محدد
+3186,2266,not-used,NULL,غير محدد
+3187,612,not-used,NULL,غير محدد
+3188,612,not-used,NULL,غير محدد
+3189,2277,not-used,NULL,غير محدد
+3190,2276,complete,1,سكني
+3191,2276,not-used,NULL,غير محدد
+3192,2276,not-used,NULL,غير محدد
+3193,2276,not-used,NULL,غير محدد
+3194,2276,not-used,NULL,غير محدد
+3195,2267,complete,1,سكني
+3196,2267,not-used,NULL,غير محدد
+3197,2278,not-used,NULL,غير محدد
+3198,2279,not-used,NULL,غير محدد
+3199,2279,not-used,NULL,غير محدد
+3200,2280,complete,1,سكني
+3201,2280,not-used,NULL,غير محدد
+3202,711,complete,1,سكني
+3203,711,not-used,NULL,غير محدد
+3204,711,not-used,NULL,غير محدد
+3205,711,complete,1,سكني
+3206,593,complete,6,استخدامات اخرى
+3207,593,not-used,NULL,غير محدد
+3208,593,complete,1,سكني
+3209,593,complete,1,سكني
+3210,2003,complete,1,سكني
+3211,2003,complete,1,سكني
+3212,2003,complete,1,سكني
+3213,1999,complete,1,سكني
+3214,1999,not-used,NULL,غير محدد
+3215,1999,complete,1,سكني
+3216,692,complete,6,استخدامات اخرى
+3217,692,complete,6,استخدامات اخرى
+3218,692,complete,1,سكني
+3219,692,complete,1,سكني
+3220,2004,complete,1,سكني
+3221,2004,not-used,NULL,غير محدد
+3222,2004,complete,NULL,غير محدد
+3223,2004,complete,1,سكني
+3224,2005,complete,1,سكني
+3225,2005,not-used,NULL,غير محدد
+3226,2005,complete,1,سكني
+3227,2005,not-used,NULL,غير محدد
+3228,2000,not-used,NULL,غير محدد
+3229,2000,not-used,NULL,غير محدد
+3230,1998,not-used,NULL,غير محدد
+3231,1998,not-used,NULL,غير محدد
+3232,2024,not-used,NULL,غير محدد
+3233,2024,not-used,NULL,غير محدد
+3234,2282,not-used,NULL,غير محدد
+3235,2284,not-used,NULL,غير محدد
+3237,2285,not-used,NULL,غير محدد
+3238,2028,not-used,NULL,غير محدد
+3239,2028,not-used,NULL,غير محدد
+3240,2027,not-used,NULL,غير محدد
+3241,2027,not-used,NULL,غير محدد
+3242,2013,not-used,NULL,غير محدد
+3243,2013,not-used,NULL,غير محدد
+3244,2012,not-used,NULL,غير محدد
+3245,2012,not-used,NULL,غير محدد
+3246,2288,not-used,NULL,غير محدد
+3247,2288,not-used,NULL,غير محدد
+3248,2288,not-used,NULL,غير محدد
+3249,1562,complete,1,سكني
+3250,1560,complete,1,سكني
+3251,1561,not-used,NULL,غير محدد
+3252,1561,not-used,NULL,غير محدد
+3253,1561,not-used,NULL,غير محدد
+3254,2289,not-used,NULL,غير محدد
+3255,1558,not-used,NULL,غير محدد
+3256,1558,not-used,NULL,غير محدد
+3257,1558,not-used,NULL,غير محدد
+3258,908,complete,1,سكني
+3259,908,not-used,NULL,غير محدد
+3260,908,not-used,NULL,غير محدد
+3261,941,not-used,NULL,غير محدد
+3262,908,not-used,NULL,غير محدد
+3263,908,not-used,NULL,غير محدد
+3264,908,complete,3,تجاري
+3265,908,not-used,NULL,غير محدد
+3266,908,complete,6,استخدامات اخرى
+3267,2010,complete,1,سكني
+3268,2010,complete,6,استخدامات اخرى
+3269,2010,complete,1,سكني
+3270,2010,complete,1,سكني
+3271,2010,not-used,NULL,غير محدد
+3272,1203,complete,1,سكني
+3273,1203,not-used,NULL,غير محدد
+3274,1328,complete,1,سكني
+3275,1328,not-used,NULL,غير محدد
+3276,992,not-used,NULL,غير محدد
+3277,992,not-used,NULL,غير محدد
+3278,1647,not-used,NULL,غير محدد
+3279,1647,complete,1,سكني
+3280,1647,complete,1,سكني
+3281,1647,not-used,NULL,غير محدد
+3282,2295,complete,1,سكني
+3283,2295,complete,1,سكني
+3284,2295,complete,1,سكني
+3285,2294,complete,6,استخدامات اخرى
+3286,1650,not-used,NULL,غير محدد
+3287,1650,complete,1,سكني
+3291,1304,complete,1,سكني
+3292,1304,not-used,NULL,غير محدد
+3293,1304,not-used,NULL,غير محدد
+3294,1304,not-used,NULL,غير محدد
+3295,1304,not-used,NULL,غير محدد
+3296,2299,complete,1,سكني
+3297,2299,complete,1,سكني
+3298,2299,complete,1,سكني
+3299,1067,not-used,NULL,غير محدد
+3300,1067,complete,1,سكني
+3301,2300,not-used,NULL,غير محدد
+3302,2300,complete,1,سكني
+3303,2300,complete,1,سكني
+3304,2195,complete,7,مدني
+3305,2195,not-used,NULL,غير محدد
+3306,2297,complete,1,سكني
+3307,2297,complete,1,سكني
+3308,2297,not-used,NULL,غير محدد
+3309,2219,not-used,NULL,غير محدد
+3311,827,complete,3,تجاري
+3312,827,complete,3,تجاري
+3313,751,not-used,NULL,غير محدد
+3314,751,complete,6,استخدامات اخرى
+3315,751,not-used,NULL,غير محدد
+3316,598,not-used,NULL,غير محدد
+3317,598,not-used,NULL,غير محدد
+3318,598,complete,1,سكني
+3319,598,not-used,NULL,غير محدد
+3320,1389,not-used,NULL,غير محدد
+3321,1389,not-used,NULL,غير محدد
+3322,2236,not-used,NULL,غير محدد
+3323,2194,not-used,NULL,غير محدد
+3324,2194,not-used,NULL,غير محدد
+3325,2194,not-used,NULL,غير محدد
+3326,2306,not-used,NULL,غير محدد
+3327,2306,not-used,NULL,غير محدد
+3328,739,not-used,NULL,غير محدد
+3329,597,complete,1,سكني
+3330,597,complete,1,سكني
+3331,597,not-used,NULL,غير محدد
+3332,597,not-used,NULL,غير محدد
+3333,597,not-used,NULL,غير محدد
+3334,597,complete,1,سكني
+3335,585,not-used,NULL,غير محدد
+3336,585,complete,1,سكني
+3337,585,complete,1,سكني
+3339,2150,not-used,NULL,غير محدد
+3342,2041,complete,6,استخدامات اخرى
+3343,685,complete,1,سكني
+3344,685,not-used,NULL,غير محدد
+3345,2260,not-used,NULL,غير محدد
+3346,2260,not-used,NULL,غير محدد
+3347,2149,complete,1,سكني
+3348,2149,complete,1,سكني
+3349,2149,complete,1,سكني
+3350,2149,complete,1,سكني
+3352,2039,complete,1,سكني
+3353,2039,not-used,NULL,غير محدد
+3354,2039,not-used,NULL,غير محدد
+3355,574,complete,1,سكني
+3356,574,not-used,NULL,غير محدد
+3357,574,complete,1,سكني
+3358,602,complete,1,سكني
+3359,602,not-used,NULL,غير محدد
+3360,602,not-used,NULL,غير محدد
+3364,627,not-used,NULL,غير محدد
+3365,627,not-used,NULL,غير محدد
+3366,627,not-used,NULL,غير محدد
+3367,1530,complete,1,سكني
+3368,1532,not-used,NULL,غير محدد
+3369,1532,complete,1,سكني
+3370,2202,not-used,NULL,غير محدد
+3371,2202,not-used,NULL,غير محدد
+3372,2026,not-used,NULL,غير محدد
+3373,2026,complete,1,سكني
+3374,2026,complete,1,سكني
+3375,2025,complete,1,سكني
+3376,2025,not-used,NULL,غير محدد
+3377,2025,not-used,NULL,غير محدد
+3378,2025,not-used,NULL,غير محدد
+3379,2025,not-used,NULL,غير محدد
+3380,439,not-used,NULL,غير محدد
+3381,439,complete,1,سكني
+3382,2030,complete,1,سكني
+3383,2030,not-used,NULL,غير محدد
+3384,2030,not-used,NULL,غير محدد
+3385,2322,not-used,NULL,غير محدد
+3386,2322,complete,1,سكني
+3387,2322,complete,1,سكني
+3388,2323,complete,1,سكني
+3389,2323,complete,1,سكني
+3390,845,not-used,NULL,غير محدد
+3391,845,not-used,NULL,غير محدد
+3392,2238,not-used,NULL,غير محدد
+3393,2238,not-used,NULL,غير محدد
+3394,2311,complete,1,سكني
+3395,2311,not-used,NULL,غير محدد
+3396,2196,not-used,NULL,غير محدد
+3397,2196,not-used,NULL,غير محدد
+3398,2235,complete,1,سكني
+3399,2235,complete,1,سكني
+3400,2311,not-used,NULL,غير محدد
+3401,2310,not-used,NULL,غير محدد
+3402,2310,not-used,NULL,غير محدد
+3403,2211,not-used,NULL,غير محدد
+3404,2211,complete,1,سكني
+3405,2335,not-used,NULL,غير محدد
+3406,2335,not-used,NULL,غير محدد
+3407,2324,not-used,NULL,غير محدد
+3408,2324,not-used,NULL,غير محدد
+3409,2324,complete,1,سكني
+3410,2326,not-used,NULL,غير محدد
+3411,2326,complete,3,تجاري
+3412,2326,not-used,NULL,غير محدد
+3413,2326,not-used,NULL,غير محدد
+3417,1390,complete,1,سكني
+3418,1390,not-used,NULL,غير محدد
+3419,1390,not-used,NULL,غير محدد
+3420,2326,not-used,NULL,غير محدد
+3421,2326,not-used,NULL,غير محدد
+3422,2326,not-used,NULL,غير محدد
+3423,2326,not-used,NULL,غير محدد
+3424,2326,not-used,NULL,غير محدد
+3425,776,complete,1,سكني
+3426,2325,not-used,NULL,غير محدد
+3427,2325,not-used,NULL,غير محدد
+3428,2313,not-used,NULL,غير محدد
+3429,2313,not-used,NULL,غير محدد
+3430,2313,not-used,NULL,غير محدد
+3431,2292,not-used,NULL,غير محدد
+3432,2292,not-used,NULL,غير محدد
+3433,562,complete,1,سكني
+3434,562,complete,6,استخدامات اخرى
+3435,562,complete,1,سكني
+3436,562,complete,1,سكني
+3438,2360,not-used,NULL,غير محدد
+3439,2360,not-used,NULL,غير محدد
+3440,2360,not-used,NULL,غير محدد
+3441,2315,not-used,NULL,غير محدد
+3442,2315,not-used,NULL,غير محدد
+3444,2193,complete,8,ديني
+3445,2193,complete,8,ديني
+3447,1860,complete,7,مدني
+3448,2312,complete,1,سكني
+3449,2312,complete,1,سكني
+3450,2312,not-used,NULL,غير محدد
+3451,2265,complete,1,سكني
+3452,2265,complete,1,سكني
+3454,686,complete,1,سكني
+3455,686,complete,1,سكني
+3456,210,not-used,NULL,غير محدد
+3457,210,not-used,NULL,غير محدد
+3458,209,not-used,NULL,غير محدد
+3459,209,not-used,NULL,غير محدد
+3460,208,not-used,NULL,غير محدد
+3461,208,not-used,NULL,غير محدد
+3462,2252,not-used,NULL,غير محدد
+3466,654,not-used,NULL,غير محدد
+3467,654,not-used,NULL,غير محدد
+3468,654,not-used,NULL,غير محدد
+3469,654,not-used,NULL,غير محدد
+3470,654,not-used,NULL,غير محدد
+3471,654,not-used,NULL,غير محدد
+3472,654,not-used,NULL,غير محدد
+3473,2331,not-used,NULL,غير محدد
+3474,2331,not-used,NULL,غير محدد
+3475,2333,not-used,NULL,غير محدد
+3476,2333,not-used,NULL,غير محدد
+3477,2333,not-used,NULL,غير محدد
+3478,2333,not-used,NULL,غير محدد
+3479,2332,not-used,NULL,غير محدد
+3480,2332,not-used,NULL,غير محدد
+3481,2332,not-used,NULL,غير محدد
+3482,2332,not-used,NULL,غير محدد
+3483,2342,not-used,NULL,غير محدد
+3484,2342,not-used,NULL,غير محدد
+3485,2348,not-used,NULL,غير محدد
+3486,2348,not-used,NULL,غير محدد
+3487,2348,not-used,NULL,غير محدد
+3488,2348,not-used,NULL,غير محدد
+3489,2348,not-used,NULL,غير محدد
+3490,2334,not-used,NULL,غير محدد
+3491,2334,not-used,NULL,غير محدد
+3492,2337,not-used,NULL,غير محدد
+3493,2337,not-used,NULL,غير محدد
+3494,2362,not-used,NULL,غير محدد
+3495,2362,not-used,NULL,غير محدد
+3496,1604,not-used,NULL,غير محدد
+3497,1604,complete,1,سكني
+3498,1604,complete,3,تجاري
+3499,852,not-used,NULL,غير محدد
+3500,852,not-used,NULL,غير محدد
+3501,852,complete,1,سكني
+3502,946,not-used,NULL,غير محدد
+3503,946,not-used,NULL,غير محدد
+3504,2340,not-used,NULL,غير محدد
+3505,2340,not-used,NULL,غير محدد
+3506,2340,not-used,NULL,غير محدد
+3507,2340,not-used,NULL,غير محدد
+3508,1114,complete,3,تجاري
+3509,1114,complete,6,استخدامات اخرى
+3510,1114,not-used,NULL,غير محدد
+3511,1114,complete,1,سكني
+3516,1156,complete,1,سكني
+3517,1156,not-used,NULL,غير محدد
+3518,1156,complete,1,سكني
+3519,1156,not-used,NULL,غير محدد
+3520,1362,not-used,NULL,غير محدد
+3521,1362,not-used,NULL,غير محدد
+3522,1209,complete,1,سكني
+3523,1209,not-used,NULL,غير محدد
+3524,1209,complete,1,سكني
+3525,2363,complete,3,تجاري
+3527,1017,complete,6,استخدامات اخرى
+3528,1017,complete,3,تجاري
+3529,1017,complete,3,تجاري
+3530,1017,not-used,NULL,غير محدد
+3531,1017,not-used,NULL,غير محدد
+3532,1017,not-used,NULL,غير محدد
+3533,1017,not-used,NULL,غير محدد
+3534,1017,not-used,NULL,غير محدد
+3535,1017,not-used,NULL,غير محدد
+3536,2070,complete,6,استخدامات اخرى
+3539,1921,not-used,NULL,غير محدد
+3540,1921,complete,1,سكني
+3541,1518,complete,6,استخدامات اخرى
+3542,1521,not-used,NULL,غير محدد
+3543,180,not-used,NULL,غير محدد
+3544,1232,complete,1,سكني
+3545,1232,complete,3,تجاري
+3546,1232,complete,3,تجاري
+3547,1232,not-used,NULL,غير محدد
+3548,1232,complete,1,سكني
+3549,1232,complete,1,سكني
+3550,1232,complete,1,سكني
+3551,1232,complete,1,سكني
+3552,2367,not-used,NULL,غير محدد
+3553,1367,complete,1,سكني
+3554,1367,complete,1,سكني
+3555,1367,complete,1,سكني
+3556,228,not-used,NULL,غير محدد
+3557,2366,not-used,NULL,غير محدد
+3558,2366,complete,1,سكني
+3559,2366,not-used,NULL,غير محدد
+3560,2366,not-used,NULL,غير محدد
+3561,2366,complete,1,سكني
+3562,2366,not-used,NULL,غير محدد
+3563,2074,complete,1,سكني
+3564,2074,complete,1,سكني
+3565,2074,complete,1,سكني
+3566,2074,complete,1,سكني
+3567,730,not-used,NULL,غير محدد
+3568,1986,not-used,NULL,غير محدد
+3569,1986,not-used,NULL,غير محدد
+3570,1986,not-used,NULL,غير محدد
+3571,762,not-used,NULL,غير محدد
+3572,2014,not-used,NULL,غير محدد
+3573,2014,not-used,NULL,غير محدد
+3574,2011,not-used,NULL,غير محدد
+3575,2011,not-used,NULL,غير محدد
+3576,2011,not-used,NULL,غير محدد
+3577,2328,not-used,NULL,غير محدد
+3578,2328,not-used,NULL,غير محدد
+3579,2320,not-used,NULL,غير محدد
+3580,2320,not-used,NULL,غير محدد
+3581,611,not-used,NULL,غير محدد
+3582,611,not-used,NULL,غير محدد
+3583,2022,not-used,NULL,غير محدد
+3584,2022,not-used,NULL,غير محدد
+3585,2022,not-used,NULL,غير محدد
+3586,2022,not-used,NULL,غير محدد
+3587,2022,not-used,NULL,غير محدد
+3588,2214,not-used,NULL,غير محدد
+3589,2214,not-used,NULL,غير محدد
+3590,2214,not-used,NULL,غير محدد
+3591,2015,not-used,NULL,غير محدد
+3592,2015,not-used,NULL,غير محدد
+3593,2215,not-used,NULL,غير محدد
+3594,690,complete,1,سكني
+3595,690,complete,6,استخدامات اخرى
+3596,690,complete,1,سكني
+3597,690,not-used,NULL,غير محدد
+3598,1222,complete,6,استخدامات اخرى
+3599,1222,complete,6,استخدامات اخرى
+3600,1222,complete,6,استخدامات اخرى
+3601,1222,complete,1,سكني
+3602,1222,complete,1,سكني
+3603,1222,not-used,NULL,غير محدد
+3604,2133,not-used,NULL,غير محدد
+3605,2133,not-used,NULL,غير محدد
+3606,2133,not-used,NULL,غير محدد
+3607,2133,not-used,NULL,غير محدد
+3608,1014,not-used,NULL,غير محدد
+3609,1014,not-used,NULL,غير محدد
+3610,1014,complete,3,تجاري
+3611,1014,complete,3,تجاري
+3612,1014,complete,3,تجاري
+3613,1014,complete,6,استخدامات اخرى
+3614,1014,complete,1,سكني
+3615,1014,complete,10,صحي
+3616,1014,not-used,NULL,غير محدد
+3617,1014,complete,1,سكني
+3618,1014,complete,1,سكني
+3619,1014,complete,1,سكني
+3620,1014,complete,1,سكني
+3621,1014,not-used,NULL,غير محدد
+3622,2172,not-used,NULL,غير محدد
+3623,2172,not-used,NULL,غير محدد
+3624,2036,not-used,NULL,غير محدد
+3625,2036,not-used,NULL,غير محدد
+3626,2036,not-used,NULL,غير محدد
+3627,2036,not-used,NULL,غير محدد
+3628,2036,not-used,NULL,غير محدد
+3629,181,complete,3,تجاري
+3630,182,complete,6,استخدامات اخرى
+3631,2370,complete,6,استخدامات اخرى
+3632,2370,complete,6,استخدامات اخرى
+3633,1094,complete,3,تجاري
+3634,2033,not-used,NULL,غير محدد
+3635,2033,not-used,NULL,غير محدد
+3636,1094,complete,3,تجاري
+3637,1094,complete,1,سكني
+3638,966,complete,6,استخدامات اخرى
+3639,966,not-used,NULL,غير محدد
+3640,966,complete,6,استخدامات اخرى
+3641,966,not-used,NULL,غير محدد
+3642,2372,not-used,NULL,غير محدد
+3643,183,complete,3,تجاري
+3644,819,complete,1,سكني
+3645,819,complete,1,سكني
+3646,819,complete,1,سكني
+3649,1152,complete,1,سكني
+3650,1152,complete,1,سكني
+3651,1152,not-used,NULL,غير محدد
+3652,943,complete,1,سكني
+3653,2373,complete,1,سكني
+3654,187,complete,1,سكني
+3655,187,complete,1,سكني
+3656,2091,not-used,NULL,غير محدد
+3657,2091,not-used,NULL,غير محدد
+3658,2091,not-used,NULL,غير محدد
+3659,190,not-used,NULL,غير محدد
+3660,190,not-used,NULL,غير محدد
+3661,2375,not-used,NULL,غير محدد
+3662,1990,complete,1,سكني
+3663,744,complete,1,سكني
+3664,744,not-used,NULL,غير محدد
+3665,1990,complete,1,سكني
+3666,1990,complete,1,سكني
+3667,1990,complete,1,سكني
+3668,735,complete,1,سكني
+3669,735,complete,1,سكني
+3670,735,complete,1,سكني
+3671,735,complete,1,سكني
+3672,2377,not-used,NULL,غير محدد
+3673,2379,not-used,NULL,غير محدد
+3674,2379,not-used,NULL,غير محدد
+3675,2301,not-used,NULL,غير محدد
+3676,2301,complete,6,استخدامات اخرى
+3677,2301,complete,1,سكني
+3678,2301,complete,1,سكني
+3679,2301,complete,1,سكني
+3680,2376,complete,1,سكني
+3681,2376,complete,1,سكني
+3682,2376,complete,1,سكني
+3683,2365,complete,1,سكني
+3684,2365,not-used,NULL,غير محدد
+3685,2365,not-used,NULL,غير محدد
+3686,2365,complete,1,سكني
+3690,1862,complete,10,صحي
+3691,1862,complete,6,استخدامات اخرى
+3692,1862,not-used,NULL,غير محدد
+3693,2364,not-used,NULL,غير محدد
+3694,2364,not-used,NULL,غير محدد
+3695,2364,not-used,NULL,غير محدد
+3696,2382,complete,6,استخدامات اخرى
+3697,155,not-used,NULL,غير محدد
+3698,155,complete,1,سكني
+3699,155,complete,1,سكني
+3700,155,not-used,NULL,غير محدد
+3701,1925,not-used,NULL,غير محدد
+3702,1925,not-used,NULL,غير محدد
+3703,1925,not-used,NULL,غير محدد
+3704,1925,not-used,NULL,غير محدد
+3705,1925,not-used,NULL,غير محدد
+3706,2152,complete,3,تجاري
+3707,2116,not-used,NULL,غير محدد
+3708,2350,not-used,NULL,غير محدد
+3709,2345,complete,1,سكني
+3710,2345,complete,1,سكني
+3711,2345,complete,1,سكني
+3712,2368,not-used,NULL,غير محدد
+3713,1276,complete,1,سكني
+3714,1276,complete,1,سكني
+3715,2161,not-used,NULL,غير محدد
+3716,2080,not-used,NULL,غير محدد
+3717,2080,not-used,NULL,غير محدد
+3718,244,not-used,NULL,غير محدد
+3719,244,complete,3,تجاري
+3720,1654,complete,3,تجاري
+3722,2344,complete,1,سكني
+3723,2344,complete,1,سكني
+3724,1569,complete,1,سكني
+3725,817,complete,1,سكني
+3726,345,complete,1,سكني
+3727,148,not-used,NULL,غير محدد
+3728,148,complete,1,سكني
+3729,151,complete,6,استخدامات اخرى
+3730,152,not-used,NULL,غير محدد
+3731,1092,complete,6,استخدامات اخرى
+3732,1092,complete,6,استخدامات اخرى
+3733,1092,complete,1,سكني
+3734,2037,complete,1,سكني
+3735,2037,not-used,NULL,غير محدد
+3736,2037,not-used,NULL,غير محدد
+3737,2037,not-used,NULL,غير محدد
+3738,2037,not-used,NULL,غير محدد
+3739,2037,not-used,NULL,غير محدد
+3740,724,not-used,NULL,غير محدد
+3741,2351,not-used,NULL,غير محدد
+3742,2351,not-used,NULL,غير محدد
+3743,2347,complete,1,سكني
+3744,2347,complete,1,سكني
+3745,2347,complete,6,استخدامات اخرى
+3746,806,not-used,NULL,غير محدد
+3747,806,not-used,NULL,غير محدد
+3748,806,not-used,NULL,غير محدد
+3749,806,not-used,NULL,غير محدد
+3750,806,not-used,NULL,غير محدد
+3751,806,not-used,NULL,غير محدد
+3752,2305,not-used,NULL,غير محدد
+3753,2304,not-used,NULL,غير محدد
+3754,152,complete,1,سكني
+3755,152,complete,1,سكني
+3756,2193,complete,8,ديني
+3757,2190,not-used,NULL,غير محدد
+3758,1029,complete,1,سكني
+3759,1029,complete,NULL,غير محدد
+3760,1382,not-used,1,سكني
+3761,2009,complete,1,سكني
+3762,2009,complete,1,سكني
+3763,2009,complete,1,سكني
+3766,2330,not-used,NULL,غير محدد
+3767,2330,complete,1,سكني
+3768,2040,complete,1,سكني
+3769,2040,complete,1,سكني
+3770,2270,not-used,NULL,غير محدد
+3771,2270,not-used,NULL,غير محدد
+3772,2270,not-used,NULL,غير محدد
+3773,2269,not-used,NULL,غير محدد
+3774,2269,not-used,NULL,غير محدد
+3775,2271,not-used,NULL,غير محدد
+3776,2271,not-used,NULL,غير محدد
+3777,2271,not-used,NULL,غير محدد
+3778,2271,not-used,NULL,غير محدد
+3779,2271,not-used,NULL,غير محدد
+3780,2271,not-used,NULL,غير محدد
+3781,2327,not-used,NULL,غير محدد
+3782,2327,not-used,NULL,غير محدد
+3783,2327,not-used,NULL,غير محدد
+3784,2327,not-used,NULL,غير محدد
+3785,2327,not-used,NULL,غير محدد
+3786,2327,complete,1,سكني
+3787,2262,not-used,NULL,غير محدد
+3788,2263,not-used,NULL,غير محدد
+3789,2268,not-used,NULL,غير محدد
+3790,2355,not-used,NULL,غير محدد
+3791,2355,not-used,NULL,غير محدد
+3792,2353,not-used,NULL,غير محدد
+3793,2353,not-used,NULL,غير محدد
+3794,2353,not-used,NULL,غير محدد
+3795,724,complete,1,سكني
+3796,724,not-used,NULL,غير محدد
+3797,2286,complete,1,سكني
+3798,2286,complete,1,سكني
+3799,2286,complete,1,سكني
+3800,2393,not-used,NULL,غير محدد
+3801,2393,not-used,NULL,غير محدد
+3802,2336,not-used,NULL,غير محدد
+3803,2336,not-used,NULL,غير محدد
+3804,2336,not-used,NULL,غير محدد
+3805,2339,not-used,NULL,غير محدد
+3806,2341,not-used,NULL,غير محدد
+3807,2341,not-used,NULL,غير محدد
+3808,2341,not-used,NULL,غير محدد
+3809,2338,not-used,NULL,غير محدد
+3810,2001,complete,8,ديني
+3811,2001,complete,8,ديني
+3812,2001,complete,8,ديني
+3813,2001,complete,8,ديني
+3814,1539,not-used,NULL,غير محدد
+3815,1539,complete,1,سكني
+3816,1539,complete,1,سكني
+3817,186,complete,6,استخدامات اخرى
+3818,185,complete,6,استخدامات اخرى
+3819,184,not-used,NULL,غير محدد
+3820,2394,not-used,NULL,غير محدد
+3821,2394,not-used,NULL,غير محدد
+3822,330,complete,1,سكني
+3823,2170,not-used,NULL,غير محدد
+3824,2170,not-used,NULL,غير محدد
+3825,315,complete,6,استخدامات اخرى
+3826,2183,complete,3,تجاري
+3827,2395,not-used,NULL,غير محدد
+3828,800,complete,1,سكني
+3829,800,not-used,NULL,غير محدد
+3830,1574,complete,6,استخدامات اخرى
+3831,2397,not-used,NULL,غير محدد
+3832,1280,complete,1,سكني
+3833,1028,complete,9,تعليمي
+3834,1028,complete,9,تعليمي
+3835,1028,complete,9,تعليمي
+3836,1661,complete,9,تعليمي
+3838,387,not-used,NULL,غير محدد
+3839,1297,complete,9,تعليمي
+3840,1715,not-used,NULL,غير محدد
+3841,1715,not-used,NULL,غير محدد
+3842,1715,complete,1,سكني
+3843,1715,not-used,NULL,غير محدد
+3844,1715,not-used,NULL,غير محدد
+3845,1233,complete,9,تعليمي
+3847,1307,complete,9,تعليمي
+3850,1731,complete,6,استخدامات اخرى
+3851,1350,complete,7,مدني
+3852,1350,complete,7,مدني
+3853,1381,not-used,NULL,غير محدد
+3854,2191,not-used,NULL,غير محدد
+3855,2008,complete,3,تجاري
+3856,2008,complete,3,تجاري
+3857,2008,not-used,NULL,غير محدد
+3858,2008,complete,3,تجاري
+3859,2385,not-used,NULL,غير محدد
+3860,2385,not-used,NULL,غير محدد
+3861,2385,not-used,NULL,غير محدد
+3862,2035,not-used,NULL,غير محدد
+3863,1313,not-used,NULL,غير محدد
+3864,1313,not-used,NULL,غير محدد
+3865,1313,complete,1,سكني
+3866,2380,not-used,NULL,غير محدد
+3867,2380,not-used,NULL,غير محدد
+3868,2380,complete,1,سكني
+3869,2402,not-used,NULL,غير محدد
+3870,2404,not-used,NULL,غير محدد
+3871,1134,complete,1,سكني
+3872,1134,complete,6,استخدامات اخرى
+3873,1134,complete,1,سكني
+3874,1134,complete,6,استخدامات اخرى
+3875,1134,not-used,NULL,غير محدد
+3876,302,not-used,NULL,غير محدد
+3878,953,not-used,NULL,غير محدد
+3879,1554,not-used,NULL,غير محدد
+3880,1554,not-used,NULL,غير محدد
+3881,953,not-used,NULL,غير محدد
+3883,1789,complete,3,تجاري
+3884,2399,complete,9,تعليمي
+3886,2398,complete,9,تعليمي
+3889,2400,complete,9,تعليمي
+3895,1182,not-used,NULL,غير محدد
+3896,1182,not-used,NULL,غير محدد
+3897,1182,complete,10,صحي
+3898,16,complete,6,استخدامات اخرى
+3899,1252,complete,1,سكني
+3900,2416,complete,6,استخدامات اخرى
+3901,1905,complete,10,صحي
+3902,450,complete,1,سكني
+3903,450,not-used,NULL,غير محدد
+3904,450,not-used,NULL,غير محدد
+3906,2205,complete,6,استخدامات اخرى
+3907,1456,not-used,NULL,غير محدد
+3908,1456,not-used,NULL,غير محدد
+3909,1456,not-used,NULL,غير محدد
+3910,1456,not-used,NULL,غير محدد
+3911,1456,not-used,NULL,غير محدد
+3912,1456,not-used,NULL,غير محدد
+3913,1456,not-used,NULL,غير محدد
+3914,109,complete,1,سكني
+3915,109,not-used,NULL,غير محدد
+3916,109,not-used,NULL,غير محدد
+3917,2167,not-used,NULL,غير محدد
+3918,1266,complete,1,سكني
+3919,2140,not-used,NULL,غير محدد
+3920,1008,not-used,NULL,غير محدد
+3921,1008,not-used,NULL,غير محدد
+3922,1008,complete,1,سكني
+3923,1008,not-used,NULL,غير محدد
+3924,2177,not-used,NULL,غير محدد
+3925,95,complete,6,استخدامات اخرى
+3926,2425,not-used,NULL,غير محدد
+3927,2115,not-used,NULL,غير محدد
+3928,2115,not-used,NULL,غير محدد
+3930,2216,not-used,NULL,غير محدد
+3931,2216,not-used,NULL,غير محدد
+3932,2216,not-used,NULL,غير محدد
+3933,2217,not-used,NULL,غير محدد
+3934,2217,not-used,NULL,غير محدد
+3935,2422,not-used,NULL,غير محدد
+3936,2423,not-used,NULL,غير محدد
+3937,2317,not-used,NULL,غير محدد
+3938,2317,not-used,NULL,غير محدد
+3939,2424,not-used,NULL,غير محدد
+3940,2424,not-used,NULL,غير محدد
+3941,2067,not-used,NULL,غير محدد
+3942,2401,complete,10,صحي
+3943,2426,complete,6,استخدامات اخرى
+3944,2078,complete,5,سياحي
+3945,2165,complete,3,تجاري
+3946,2164,complete,3,تجاري
+3947,947,not-used,NULL,غير محدد
+3948,412,not-used,NULL,غير محدد
+3949,412,not-used,NULL,غير محدد
+3950,328,complete,3,تجاري
+3951,325,complete,6,استخدامات اخرى
+3952,2428,complete,3,تجاري
+3953,2427,complete,10,صحي
+3954,2429,complete,6,استخدامات اخرى
+3955,329,complete,6,استخدامات اخرى
+3956,782,complete,1,سكني
+3957,782,complete,6,استخدامات اخرى
+3958,782,complete,6,استخدامات اخرى
+3959,782,not-used,NULL,غير محدد
+3960,2068,complete,1,سكني
+3961,2068,complete,1,سكني
+3962,2068,not-used,NULL,غير محدد
+3963,150,not-used,NULL,غير محدد
+3964,150,not-used,NULL,غير محدد
+3965,2431,complete,3,تجاري
+3966,1755,not-used,NULL,غير محدد
+3967,1755,complete,3,تجاري
+3968,1753,complete,3,تجاري
+3969,1753,complete,3,تجاري
+3970,336,complete,3,تجاري
+3971,905,not-used,NULL,غير محدد
+3972,905,not-used,NULL,غير محدد
+3973,905,complete,1,سكني
+3974,2389,not-used,NULL,غير محدد
+3975,2062,not-used,NULL,غير محدد
+3976,2062,not-used,NULL,غير محدد
+3977,691,not-used,NULL,غير محدد
+3978,1365,complete,1,سكني
+3979,2123,complete,1,سكني
+3980,2123,not-used,NULL,غير محدد
+3981,2123,complete,1,سكني
+3982,1620,complete,1,سكني
+3983,1620,not-used,NULL,غير محدد
+3984,2432,not-used,NULL,غير محدد
+3985,204,complete,1,سكني
+3986,2127,complete,1,سكني
+3987,2127,complete,1,سكني
+3988,2127,complete,1,سكني
+3989,1614,complete,1,سكني
+3990,2408,not-used,NULL,غير محدد
+3991,2409,not-used,1,سكني
+3992,2409,complete,1,سكني
+3993,2409,complete,1,سكني
+3994,1575,not-used,NULL,غير محدد
+3995,1575,complete,1,سكني
+3996,2433,not-used,NULL,غير محدد
+3997,691,not-used,NULL,غير محدد
+3998,2359,complete,4,صناعي
+3999,2359,complete,4,صناعي
+4000,2419,not-used,NULL,غير محدد
+4001,2420,not-used,NULL,غير محدد
+4002,2420,not-used,NULL,غير محدد
+4003,2421,not-used,NULL,غير محدد
+4004,2421,not-used,NULL,غير محدد
+4005,194,not-used,NULL,غير محدد
+4006,2184,not-used,NULL,غير محدد
+4007,2184,not-used,NULL,غير محدد
+4008,2184,not-used,NULL,غير محدد
+4009,193,not-used,NULL,غير محدد
+4010,2185,not-used,NULL,غير محدد
+4011,2414,not-used,NULL,غير محدد
+4012,2414,not-used,NULL,غير محدد
+4013,1611,complete,6,استخدامات اخرى
+4014,1611,not-used,NULL,غير محدد
+4015,1612,not-used,NULL,غير محدد
+4016,1612,complete,3,تجاري
+4017,1589,not-used,NULL,غير محدد
+4018,2309,not-used,NULL,غير محدد
+4019,2186,not-used,NULL,غير محدد
+4020,1391,not-used,NULL,غير محدد
+4021,2307,not-used,NULL,غير محدد
+4022,2307,not-used,NULL,غير محدد
+4023,2307,complete,1,سكني
+4024,2130,not-used,NULL,غير محدد
+4025,2130,complete,4,صناعي
+4026,745,not-used,NULL,غير محدد
+4027,745,not-used,NULL,غير محدد
+4028,745,complete,1,سكني
+4029,745,not-used,NULL,غير محدد
+4030,2168,not-used,NULL,غير محدد
+4031,2168,not-used,NULL,غير محدد
+4032,322,complete,1,سكني
+4033,322,not-used,NULL,غير محدد
+4034,319,complete,1,سكني
+4035,319,complete,1,سكني
+4036,323,complete,1,سكني
+4037,2434,complete,1,سكني
+4038,2434,complete,1,سكني
+4039,2437,not-used,NULL,غير محدد
+4040,2437,not-used,NULL,غير محدد
+4041,2436,complete,6,استخدامات اخرى
+4042,2436,not-used,NULL,غير محدد
+4043,322,complete,1,سكني
+4044,2438,complete,6,استخدامات اخرى
+4045,2439,not-used,NULL,غير محدد
+4046,2169,not-used,NULL,غير محدد
+4047,2169,not-used,NULL,غير محدد
+4048,2169,not-used,NULL,غير محدد
+4049,321,not-used,NULL,غير محدد
+4050,321,not-used,NULL,غير محدد
+4052,2019,not-used,NULL,غير محدد
+4053,2019,not-used,NULL,غير محدد
+4054,2019,not-used,NULL,غير محدد
+4055,580,complete,1,سكني
+4056,580,not-used,NULL,غير محدد
+4057,580,not-used,NULL,غير محدد
+4058,2021,not-used,NULL,غير محدد
+4059,2021,not-used,NULL,غير محدد
+4060,2021,not-used,NULL,غير محدد
+4061,2443,not-used,NULL,غير محدد
+4062,2442,not-used,NULL,غير محدد
+4063,2441,not-used,NULL,غير محدد
+4064,2441,not-used,NULL,غير محدد
+4065,331,not-used,NULL,غير محدد
+4066,342,complete,3,تجاري
+4067,2129,not-used,NULL,غير محدد
+4068,2158,not-used,NULL,غير محدد
+4069,1110,not-used,NULL,غير محدد
+4070,1110,complete,1,سكني
+4071,1110,complete,1,سكني
+4072,1143,complete,1,سكني
+4073,1143,complete,1,سكني
+4074,2444,not-used,NULL,غير محدد
+4075,2407,complete,1,سكني
+4076,1603,complete,1,سكني
+4077,1603,complete,1,سكني
+4078,892,not-used,NULL,غير محدد
+4079,2445,in-progress,1,سكني
